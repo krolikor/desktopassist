@@ -27,5 +27,13 @@
 				<seg>testxx</seg>
 			</tuv>
 		</tu>
+		<tu tuid="DesktopAssist:common:" srclang="en-US">
+			<tuv xml:lang="en-US">
+				<seg>test222</seg>
+			</tuv>
+			<tuv xml:lang="pl">
+				<seg>test333</seg>
+			</tuv>
+		</tu>
 	</body>
 </tmx>
