@@ -1,3 +1,3 @@
 # desktopassist
-Translations for DesktopAssist
+Translations files for DesktopAssist
 https://desktopassist.net
