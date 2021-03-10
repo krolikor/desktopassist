@@ -1,0 +1,861 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: DA1\n"
+"Language: nl\n"
+
+
+msgid "Aliases"
+msgstr "Aliassen"
+
+
+msgid "List of aliases"
+msgstr "Lijst van aliassen"
+
+
+msgid "Alias editor"
+msgstr "Alias-editor"
+
+
+msgid "Client ID:"
+msgstr "Klant ID:"
+
+
+msgid "Alias name:"
+msgstr "Alias naam:"
+
+
+msgid "New"
+msgstr "Nieuw"
+
+
+msgid "Add"
+msgstr "Voeg  toe"
+
+
+msgid "Remove"
+msgstr "Verwijder"
+
+
+msgid "Save"
+msgstr "Bespaar"
+
+
+
+msgid "Close"
+msgstr "Sluit"
+
+
+msgid "The client ID can not be empty."
+msgstr "Het klant-ID kan niet leeg zijn."
+
+
+
+
+
+
+
+msgid "Message"
+msgstr "Bericht"
+
+
+msgid "The name of the alias can not be empty"
+msgstr "De naam van de alias kan niet leeg zijn."
+
+
+msgid "The name of the alias already exists."
+msgstr "De naam van de alias bestaat al."
+
+
+msgid "Alias name and ID already exists."
+msgstr "Alias naam en ID bestaat al."
+
+
+msgid "Do you want to save changes?"
+msgstr "Wilt u veranderingen opslaan?"
+
+
+msgid "Question"
+msgstr "Vraag"
+
+
+msgid "Your connection data"
+msgstr "Uw verbindingsgegevens"
+
+
+msgid "Your ID:"
+msgstr "Je ID:"
+
+
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+
+
+msgid "Generate new password"
+msgstr "Genereer een nieuw wachtwoord"
+
+
+msgid "Connect to client"
+msgstr "Verbinding maken met de klant"
+
+
+msgid "Add/Edit alias"
+msgstr "Alias toevoegen/bewerken"
+
+
+msgid "ID does not exist or client disconnected"
+msgstr "ID bestaat niet of de verbinding met de klant is verbroken"
+
+
+msgid "Wrong password"
+msgstr "Verkeerd wachtwoord"
+
+
+msgid "Connect"
+msgstr "Verbind"
+
+
+
+msgid "Offline"
+msgstr "Offline"
+
+
+msgid "Connections encrypted with OpenSSL 256-bit AES"
+msgstr "Verbindingen versleuteld met OpenSSL 256-bit AES"
+
+
+msgid "Count of connected clients"
+msgstr "Aantal aangesloten klanten"
+
+
+msgid "Amount of downloaded and uploaded data"
+msgstr "Hoeveelheid gedownloade en geüploade gegevens"
+
+
+msgid "Quit"
+msgstr "Stop met"
+
+
+msgid "Incorrect client ID"
+msgstr "Onjuiste klant ID"
+
+
+msgid "The given ID number is the same as yours."
+msgstr "Het gegeven ID-nummer is hetzelfde als het uwe."
+
+
+msgid "Password can't be blank"
+msgstr "Wachtwoord kan niet leeg zijn"
+
+
+
+msgid "Password too short - minimum length is 4 characters"
+msgstr "Wachtwoord te kort - minimale lengte is 4 karakters"
+
+
+msgid "An upgrade to the new version is required, if you agree click 'Yes'."
+msgstr "Een upgrade naar de nieuwe versie is vereist, als u akkoord gaat klik je op 'Ja'."
+
+
+msgid "Otherwise, you can download the new version from:"
+msgstr "Anders kunt u de nieuwe versie downloaden:"
+
+
+
+
+msgid "Update"
+msgstr "Update"
+
+
+msgid "Online"
+msgstr "Online"
+
+
+msgid "Error checking client ID"
+msgstr "Foutieve controle van de cliënt-ID"
+
+
+
+msgid "Client offline"
+msgstr "Klant offline"
+
+
+msgid "Direct connection"
+msgstr "Directe verbinding"
+
+
+
+msgid "Your partner closed the connection"
+msgstr "Uw partner sloot de verbinding"
+
+
+
+msgid "Disconnected"
+msgstr "Ontkoppeld"
+
+
+msgid "Save file"
+msgstr "Bestand opslaan"
+
+
+msgid "Exceeded limit of incorrect authorizations, wait "
+msgstr "Overschrijding van de limiet van onjuiste machtigingen, wachten "
+
+
+msgid "License"
+msgstr "Licentie"
+
+
+msgid "Log window"
+msgstr "Logboekraam"
+
+
+msgid "Title"
+msgstr "Titel"
+
+
+msgid "Details"
+msgstr "Details"
+
+
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+
+msgid "Windows UAC is enabled on the client's system\n"
+"and the application is not running as an Administrator.\n"
+""
+msgstr "Windows UAC is ingeschakeld op het systeem van de klant\n"
+"en de applicatie draait niet als Administrator."
+
+
+msgid "Some program options may not work correctly."
+msgstr "Sommige programma-opties werken mogelijk niet goed."
+
+
+msgid "Windows UAC is enabled on the client's system\n"
+"and the application is running as an Administrator.\n"
+""
+msgstr "Windows UAC is ingeschakeld op het systeem van de klant\n"
+"en de applicatie draait als Administrator."
+
+
+msgid "Windows UAC is enabled"
+msgstr "Windows UAC is ingeschakeld"
+
+
+msgid "Send Ctrl+Alt+Delete"
+msgstr "Stuur Ctrl+Alt+Delete"
+
+
+msgid "Grayscale disabled"
+msgstr "Grijsschaal gehandicapten"
+
+
+
+msgid "Quality"
+msgstr "Kwaliteit"
+
+
+
+msgid "Full screen"
+msgstr "Volledig scherm"
+
+
+msgid "Hide the toolbar"
+msgstr "Verberg de werkbalk"
+
+
+msgid "Grayscale enabled"
+msgstr "Grijstinten ingeschakeld"
+
+
+msgid "Information"
+msgstr "Informatie"
+
+
+msgid "Window mode"
+msgstr "Vensterstand"
+
+
+msgid "Show toolbar"
+msgstr "Toon werkbalk"
+
+
+msgid "Hide toolbar"
+msgstr "Verberg de werkbalk"
+
+
+msgid "Another program instance is already running, aborting."
+msgstr "Een andere programma-instantie is al bezig, met het afbreken van het programma."
+
+
+msgid "Settings"
+msgstr "Instellingen"
+
+
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+
+msgid "Language:"
+msgstr "Taal:"
+
+
+msgid "View only"
+msgstr "Alleen bekijken"
+
+
+msgid "Turn off remote wallpaper"
+msgstr "Zet het behang op afstand uit"
+
+
+msgid "Disable GUI animations"
+msgstr "GUI-animaties uitschakelen"
+
+
+msgid "Disable Aero"
+msgstr "Schakel Aero uit"
+
+
+msgid "Private password:"
+msgstr "Privé-wachtwoord:"
+
+
+msgid "Use direct connection"
+msgstr "Gebruik een directe verbinding"
+
+
+msgid "Port number:"
+msgstr "Poortnummer:"
+
+
+msgid "to"
+msgstr "naar"
+
+
+msgid "Quality (%)"
+msgstr "Kwaliteit (%)"
+
+
+
+msgid "version"
+msgstr "versie"
+
+
+msgid "Portions copyright:"
+msgstr "Delen van het auteursrecht:"
+
+
+
+msgid "Display license"
+msgstr "Weergave licentie"
+
+
+msgid "About"
+msgstr "Over"
+
+
+msgid "Open settings folder"
+msgstr "Openen van de instellingenmap"
+
+
+msgid "OK"
+msgstr "OK"
+
+
+msgid "System default"
+msgstr "Standaardinstelling van het systeem"
+
+
+msgid "English"
+msgstr "Engels"
+
+
+msgid "Polish"
+msgstr "Pools"
+
+
+msgid "Downloading information about the update"
+msgstr "Downloaden van informatie over de update"
+
+
+msgid "Connecting"
+msgstr "Aansluiten"
+
+
+msgid "Downloaded"
+msgstr "Gedownload"
+
+
+msgid "Download complete"
+msgstr "Downloaden compleet"
+
+
+msgid "Canceling the update"
+msgstr "Annuleren van de update"
+
+
+msgid "Starting data exchange"
+msgstr "Starten van de gegevensuitwisseling"
+
+
+msgid "Checking client status"
+msgstr "Het controleren van de klantstatus"
+
+
+msgid "Checking client status timeout"
+msgstr "Het controleren van de klantstatus timeout"
+
+
+msgid "Exchanging RSA keys"
+msgstr "Ruilen van RSA-sleutels"
+
+
+msgid "Authorization"
+msgstr "Autorisatie"
+
+
+msgid "Connected"
+msgstr "Aangesloten"
+
+
+msgid "Authorization failed"
+msgstr "Autorisatie mislukt"
+
+
+
+
+
+msgid "Connection initialization failed"
+msgstr "Verbindingsinitialisatie mislukt"
+
+
+msgid "Connection initialization timeout"
+msgstr "Time-out voor de initialisatie van de verbinding"
+
+
+msgid "Initiation of direct connection"
+msgstr "Initiatie van een directe verbinding"
+
+
+msgid "The direct connection attempt failed"
+msgstr "De poging tot directe verbinding is mislukt"
+
+
+msgid "Initializing the P2P connection"
+msgstr "Het initialiseren van de P2P-aansluiting"
+
+
+msgid "Initializing the UDP connection"
+msgstr "Initialiseren van de UDP-verbinding"
+
+
+msgid "Connected, receiving data"
+msgstr "Verbonden, ontvangen van gegevens"
+
+
+msgid "Client"
+msgstr "Klant"
+
+
+msgid "Connected, sending data"
+msgstr "Verbonden, verzenden van gegevens"
+
+
+
+msgid "[language] translation:"
+msgstr "Nederlandse vertaling:"
+
+
+
+msgid "Language_autor"
+msgstr "Automatisch: deepl.com"
+
+
+msgid "Send"
+msgstr "Stuur"
+
+
+msgid "Chat with"
+msgstr "Chat met"
+
+
+msgid "Free version, buy a license"
+msgstr "Gratis versie, koop een licentie"
+
+
+msgid "Open chat window"
+msgstr "Open chatvenster"
+
+
+msgid "An upgrade to the new version is required, you can download the new version from: "
+msgstr "Een upgrade naar de nieuwe versie is vereist, u kunt de nieuwe versie downloaden van: "
+
+
+msgid "License has expired, buy new"
+msgstr "Licentie is verlopen, nieuwe kopen"
+
+
+msgid "The limit of %d connections"
+msgstr "De limiet van %d aansluitingen"
+
+
+msgid "The maximum number of %d simultaneous connections for the license has been exceeded."
+msgstr "Het maximum aantal van %d gelijktijdige verbindingen voor de licentie is overschreden."
+
+
+msgid "Limit of the free version."
+msgstr "Beperking van de gratis versie."
+
+
+msgid "The maximum number of simultaneous connections has been exceeded."
+msgstr "Het maximum aantal gelijktijdige verbindingen is overschreden."
+
+
+msgid "The file already exists. Do you want to overwrite it?"
+msgstr "Het bestand bestaat al. Wil je het overschrijven?"
+
+
+
+msgid "Confirm"
+msgstr "Bevestig"
+
+
+msgid "The directory already exists. Do you want to overwrite it?"
+msgstr "De directory bestaat al. Wil je het overschrijven?"
+
+
+msgid "Sending:"
+msgstr "Het sturen:"
+
+
+msgid "Receiving:"
+msgstr "Ontvangen:"
+
+
+
+
+
+msgid "File transfer"
+msgstr "Bestandsoverdracht"
+
+
+msgid "Local computer"
+msgstr "Lokale computer"
+
+
+msgid "Remote computer"
+msgstr "Computer op afstand"
+
+
+msgid "Receive"
+msgstr "Ontvang"
+
+
+msgid "Ready"
+msgstr "Klaar"
+
+
+
+
+msgid "Desktop"
+msgstr "Desktop"
+
+
+
+
+msgid "My Documents"
+msgstr "Mijn documenten"
+
+
+msgid "Analyzing"
+msgstr "Analyse van"
+
+
+msgid "The file in this location is not writable."
+msgstr "Het bestand op deze locatie is niet beschrijfbaar."
+
+
+msgid "Completed"
+msgstr "Voltooid"
+
+
+msgid "New folder"
+msgstr "Nieuwe folder"
+
+
+msgid "Click to show info"
+msgstr "Klik om info te tonen"
+
+
+msgid "Chat"
+msgstr "Chat"
+
+
+msgid "Default:"
+msgstr "Standaard:"
+
+
+msgid "Default image quality"
+msgstr "Standaard beeldkwaliteit"
+
+
+msgid "Enter the license key to use the license with this installation.\n"
+"The key was sent in an e-mail after the purchase."
+msgstr "Voer de licentiesleutel in om de licentie te gebruiken bij deze installatie.\n"
+"De sleutel is na de aankoop in een e-mail verstuurd."
+
+
+msgid "Remove license key"
+msgstr "Licentiesleutel verwijderen"
+
+
+msgid "Save the license key"
+msgstr "Sla de licentiesleutel op"
+
+
+msgid "License key"
+msgstr "Licentiesleutel"
+
+
+msgid "Spanish"
+msgstr "Spaans"
+
+
+msgid "Spanish (AR)"
+msgstr "Spaans (AR)"
+
+
+msgid "Incorrect license key."
+msgstr "Onjuiste licentiesleutel."
+
+
+msgid "Enabling this option will attempt to connect directly.\n"
+"It works only when you are the initiator of the connection.\n"
+"This is the fastest way to connect without negotiating the connection and proxy server.\n"
+"\n"
+"IMPORTANT!\n"
+"The router must have TCP port forwarding set (defined below)\n"
+"and appropriate settings in the firewall of your operating system.\n"
+"You need as many ports as many simultaneous connections you want to use."
+msgstr "Als u deze optie inschakelt, probeert u direct verbinding te maken.\n"
+"Het werkt alleen als u de initiatiefnemer van de verbinding bent.\n"
+"Dit is de snelste manier om verbinding te maken zonder te onderhandelen over de verbinding en de proxyserver.\n"
+"\n"
+"BELANGRIJK!\n"
+"De router moet een TCP-poort forwarding set hebben (hieronder gedefinieerd)\n"
+"en de juiste instellingen in de firewall van uw besturingssysteem.\n"
+"U hebt zoveel poorten nodig als u wilt gebruiken."
+
+
+msgid "Password generator"
+msgstr "Wachtwoord generator"
+
+
+msgid "Refresh password after disconnect"
+msgstr "Wachtwoord vernieuwen na het verbreken van de verbinding"
+
+
+msgid "Use letters"
+msgstr "Gebruiksbrieven"
+
+
+msgid "Password length:"
+msgstr "Wachtwoordlengte:"
+
+
+msgid "Generate new password, to set private password go to settings."
+msgstr "Genereer een nieuw wachtwoord, om een privé wachtwoord in te stellen ga naar de instellingen."
+
+
+msgid "You closed the connection "
+msgstr "Je hebt de verbinding gesloten "
+
+
+msgid "Powered by "
+msgstr "Aangedreven door "
+
+
+msgid "An upgrade to the new version is required."
+msgstr "Een upgrade naar de nieuwe versie is vereist."
+
+
+msgid "The license has expired."
+msgstr "De licentie is verlopen."
+
+
+msgid "Canceled"
+msgstr "Geannuleerd"
+
+
+msgid "Do you want to cancel file transfer?"
+msgstr "Wilt u de bestandsoverdracht annuleren?"
+
+
+msgid "Select the destination folder on the local computer."
+msgstr "Selecteer de doelmap op de lokale computer."
+
+
+msgid "Select the destination folder on the remote computer."
+msgstr "Selecteer de doelmap op de externe computer."
+
+
+msgid "The screen cannot be captured at the moment. This is probably due to\n"
+"fast user switching or a disconnected/minimized Remote Desktop\n"
+"session."
+msgstr "Het scherm kan op dit moment niet worden vastgelegd. Dit is waarschijnlijk te wijten aan\n"
+"snel schakelen van de gebruiker of een losgekoppelde/geminimaliseerde Remote Desktop"
+
+
+msgid "Startup"
+msgstr "Opstarten"
+
+
+msgid "Start at Login"
+msgstr "Begin bij Aanmelden"
+
+
+msgid "Start minimized"
+msgstr "Start geminimaliseerd"
+
+
+msgid "The connection was broken. Connection is resuming..."
+msgstr "De verbinding werd verbroken. De verbinding wordt hervat..."
+
+
+msgid "Clipboard"
+msgstr "Klembord"
+
+
+msgid "File copying canceled."
+msgstr "Bestandskopie geannuleerd."
+
+
+msgid "Copying: "
+msgstr "Kopiëren: "
+
+
+msgid "File copying completed."
+msgstr "Bestandskopie voltooid."
+
+
+msgid "Copying folder: "
+msgstr "Kopieermap: "
+
+
+msgid "File transfer completed"
+msgstr "Bestandsoverdracht voltooid"
+
+
+msgid "File transfer canceled"
+msgstr "Bestandsoverdracht geannuleerd"
+
+
+msgid "Update is required"
+msgstr "Update is vereist"
+
+
+msgid "Insufficient permission to perform update in this location."
+msgstr "Onvoldoende toestemming voor het uitvoeren van een update op deze locatie."
+
+
+msgid "Program is still running"
+msgstr "Programma loopt nog steeds"
+
+
+msgid "Show &DesktopAssist"
+msgstr "Toon &DesktopAssist"
+
+
+msgid "&Settings"
+msgstr "&Instellingen"
+
+
+msgid "E&xit"
+msgstr "&Verlaat"
+
+
+msgid "The selected language is not supported by your system.\n"
+"Try installing support for this language."
+msgstr "De geselecteerde taal wordt niet ondersteund door uw systeem.\n"
+"Probeer de ondersteuning voor deze taal te installeren."
+
+
+msgid "Incoming connection"
+msgstr "Inkomende verbinding"
+
+
+msgid "Image quality"
+msgstr "Beeldkwaliteit"
+
+
+msgid "Control automatically"
+msgstr "Controle automatisch"
+
+
+msgid "Reduce to 256 colors"
+msgstr "Terugbrengen tot 256 kleuren"
+
+
+msgid "Send key combinations"
+msgstr "Stuur toetscombinaties"
+
+
+msgid "Aspect ratio"
+msgstr "Aspectverhouding"
+
+
+msgid "Fit to window"
+msgstr "Fit to window"
+
+
+msgid "Automatic quality"
+msgstr "Automatic quality"
+
+
+msgid "256 colors"
+msgstr "256 kleuren"
+
+
+msgid "Keyboards actions"
+msgstr "Toetsenbordacties"
+
+
+msgid "Send Ctrl+Alt+Del"
+msgstr "Stuur Ctrl+Alt+Del"
+
+
+msgid "Dutch"
+msgstr "Nederlands"
+
+
+msgid "Italian"
+msgstr "Italiaans"
+
+
+msgid "French"
+msgstr "Frans"
+
+
+msgid "Russian"
+msgstr "Russisch"
+
+
+msgid "Greek"
+msgstr "Grieks"
+
+
+msgid "Portuguese"
+msgstr "Portugees"
+
+
+msgid "German"
+msgstr "Duits"
+
