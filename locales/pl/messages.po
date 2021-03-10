@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DA1\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-03-10 21:15+0000\n"
+"PO-Revision-Date: 2021-03-10 22:18+0000\n"
 "Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -74,16 +74,16 @@ msgid "Chat with"
 msgstr "Czat z"
 
 msgid "Desktop sharing"
-msgstr ""
+msgstr "Udostępnianie pulpitu"
 
 msgid "DesktopAssist shares your desktop"
-msgstr ""
+msgstr "DesktopAssist udostępnia pulpit"
 
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 msgid "Disconnect all"
-msgstr ""
+msgstr "Rozłącz wszystkich"
 
 msgid "Your connection data"
 msgstr "Twoje dane do połączenia"
@@ -128,7 +128,7 @@ msgid "Open chat window"
 msgstr "Otwórz okno czatu"
 
 msgid "Update available"
-msgstr ""
+msgstr "Dostępne są aktualizacje"
 
 msgid "Amount of downloaded and uploaded data"
 msgstr "Ilość pobranych i wysłanych danych"
@@ -214,10 +214,10 @@ msgid "Program is still running"
 msgstr "Program nadal działa"
 
 msgid "An upgrade to the new version is available, if you want to update click 'Yes'."
-msgstr ""
+msgstr "Dostępna jest aktualizacja do nowej wersji, jeśli chcesz zaktualizować kliknij 'Tak'."
 
 msgid "An upgrade to the new version is available, you can download the new version from: "
-msgstr ""
+msgstr "Dostępna jest aktualizacja do nowej wersji, można ją pobrać z: "
 
 msgid "Show &DesktopAssist"
 msgstr "Pokaż &DesktopAssist"
@@ -298,10 +298,10 @@ msgid "Select the destination folder on the remote computer."
 msgstr "Wybierz folder docelowy na komputerze zdalnym."
 
 msgid "DesktopAssist"
-msgstr ""
+msgstr "DesktopAssist"
 
 msgid "Remote access software"
-msgstr ""
+msgstr "Oprogramowanie zdalnego dostępu"
 
 msgid "License"
 msgstr "Licencja"
@@ -348,7 +348,7 @@ msgid "Windows UAC is enabled"
 msgstr "Windows UAC jest włączony"
 
 msgid "Keyboard actions"
-msgstr ""
+msgstr "Działania klawiatury"
 
 msgid "Quality"
 msgstr "Jakość"
@@ -357,7 +357,7 @@ msgid "Chat"
 msgstr "Czat"
 
 msgid "Change the monitor"
-msgstr ""
+msgstr "Zmień monitor"
 
 msgid "Full screen"
 msgstr "Pełny ekran"
@@ -390,7 +390,7 @@ msgid "Window mode"
 msgstr "Tryb okna"
 
 msgid "Client has view only mode enabled."
-msgstr ""
+msgstr "Klient ma włączony tryb tylko do podglądu."
 
 msgid "Send Ctrl+Alt+Delete"
 msgstr "Wsyślij Ctrl+Alt+Delete"
