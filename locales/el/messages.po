@@ -1,0 +1,861 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: DesktopAssist\n"
+"Language: el\n"
+
+
+msgid "Aliases"
+msgstr "Ψευδώνυμα"
+
+
+msgid "List of aliases"
+msgstr "Λίστα ψευδωνύμων"
+
+
+msgid "Alias editor"
+msgstr "Συντάκτης ψευδωνύμου"
+
+
+msgid "Client ID:"
+msgstr "ID Πελάτη:"
+
+
+msgid "Alias name:"
+msgstr "Ψευδώνυμο:"
+
+
+msgid "New"
+msgstr "Νέος"
+
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+
+msgid "The client ID can not be empty."
+msgstr "Το ID του Πελάτη δεν μπορεί να είναι κενό."
+
+
+
+
+
+
+
+msgid "Message"
+msgstr "Μήνυμα"
+
+
+msgid "The name of the alias can not be empty"
+msgstr "Το ψευδώνυμο δεν μπορεί να είναι κενό"
+
+
+msgid "The name of the alias already exists."
+msgstr "Το ψευδώνυμο υπάρχει ήδη."
+
+
+msgid "Alias name and ID already exists."
+msgstr "Το ψευδώνυμο και το ID υπάρχουν ήδη."
+
+
+msgid "Do you want to save changes?"
+msgstr "Θέλετε να αποθηκεύσετε τις αλλαγές;"
+
+
+msgid "Question"
+msgstr "Ερώτηση"
+
+
+msgid "Your connection data"
+msgstr "Τα δεδομένα σύνδεσής σας"
+
+
+msgid "Your ID:"
+msgstr "Το ID σου:"
+
+
+
+msgid "Password:"
+msgstr "Κωδικός:"
+
+
+
+msgid "Generate new password"
+msgstr "Δημιουργήστε νέο Κωδικό"
+
+
+msgid "Connect to client"
+msgstr "Συνδεθείτε στον πελάτη"
+
+
+msgid "Add/Edit alias"
+msgstr "Προσθήκη / Επεξεργασία ψευδωνύμου"
+
+
+msgid "ID does not exist or client disconnected"
+msgstr "Το ID δεν υπάρχει ή ο πελάτης αποσυνδέθηκε"
+
+
+msgid "Wrong password"
+msgstr "Λάθος κωδικός"
+
+
+msgid "Connect"
+msgstr "Σύνδεση"
+
+
+
+msgid "Offline"
+msgstr "Εκτός σύνδεσης"
+
+
+msgid "Connections encrypted with OpenSSL 256-bit AES"
+msgstr "Συνδέσεις κρυπτογραφημένες με OpenSSL 256-bit AES"
+
+
+msgid "Count of connected clients"
+msgstr "Αριθμός συνδεδεμένων πελατών"
+
+
+msgid "Amount of downloaded and uploaded data"
+msgstr "Ποσό ληφθέντων και μεταφορτωμένων δεδομένων"
+
+
+msgid "Quit"
+msgstr "Κλείσιμο"
+
+
+msgid "Incorrect client ID"
+msgstr "Εσφαλμένο ID πελάτη"
+
+
+msgid "The given ID number is the same as yours."
+msgstr "Το δεδομένο ID είναι ίδιο με το δικό σας."
+
+
+msgid "Password can't be blank"
+msgstr "Ο Κωδικός δεν μπορεί να είναι κενός"
+
+
+
+msgid "Password too short - minimum length is 4 characters"
+msgstr "Ο Κωδικός είναι πολύ μικρός - το ελάχιστο μήκος είναι 4 χαρακτήρες"
+
+
+msgid "An upgrade to the new version is required, if you agree click 'Yes'."
+msgstr "Απαιτείται αναβάθμιση στη νέα έκδοση, εάν συμφωνείτε, κάντε κλικ στο «Ναι»."
+
+
+msgid "Otherwise, you can download the new version from:"
+msgstr "Διαφορετικά, μπορείτε να κάνετε λήψη της νέας έκδοσης από:"
+
+
+
+
+msgid "Update"
+msgstr "Αναβάθμιση"
+
+
+msgid "Online"
+msgstr "Σε σύνδεση"
+
+
+msgid "Error checking client ID"
+msgstr "Σφάλμα κατά τον έλεγχο του ID πελάτη"
+
+
+
+msgid "Client offline"
+msgstr "Πελάτης εκτός σύνδεσης"
+
+
+msgid "Direct connection"
+msgstr "Απευθείας σύνδεση"
+
+
+
+msgid "Your partner closed the connection"
+msgstr "Ο συνεργάτης σας έκλεισε τη σύνδεση"
+
+
+
+msgid "Disconnected"
+msgstr "Ασύνδετος"
+
+
+msgid "Save file"
+msgstr "Αποθηκεύσετε το αρχείο"
+
+
+msgid "Exceeded limit of incorrect authorizations, wait "
+msgstr "Υπέρβαση ορίου λανθασμένων εξουσιοδοτήσεων, περιμένετε"
+
+
+msgid "License"
+msgstr "Αδεια"
+
+
+msgid "Log window"
+msgstr "Παράθυρο καταγραφής"
+
+
+msgid "Title"
+msgstr "Τίτλος"
+
+
+msgid "Details"
+msgstr "Λεπτομέριες"
+
+
+
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+
+msgid "Windows UAC is enabled on the client's system\n"
+"and the application is not running as an Administrator.\n"
+""
+msgstr "Τα Windows UAC είναι ενεργοποιημένα στο σύστημα του πελάτη\n"
+"και η εφαρμογή δεν εκτελείται ως Διαχειριστής.\n"
+""
+
+
+msgid "Some program options may not work correctly."
+msgstr "Ορισμένες επιλογές προγράμματος ενδέχεται να μην λειτουργούν σωστά."
+
+
+msgid "Windows UAC is enabled on the client's system\n"
+"and the application is running as an Administrator.\n"
+""
+msgstr "Τα Windows UAC είναι ενεργοποιημένα στο σύστημα του πελάτη\n"
+"και η εφαρμογή εκτελείται ως Διαχειριστής.\n"
+""
+
+
+msgid "Windows UAC is enabled"
+msgstr "Τα Windows UAC είναι ενεργοποιημένα"
+
+
+msgid "Send Ctrl+Alt+Delete"
+msgstr "Αποστολή Ctrl + Alt + Del"
+
+
+msgid "Grayscale disabled"
+msgstr "Η κλίμακα του γκρι απενεργοποιήθηκε"
+
+
+
+msgid "Quality"
+msgstr "Ποιότητα"
+
+
+
+msgid "Full screen"
+msgstr "Πλήρης οθόνη"
+
+
+msgid "Hide the toolbar"
+msgstr "Απόκρυψη της γραμμής εργαλείων"
+
+
+msgid "Grayscale enabled"
+msgstr "Ενεργοποιήθηκε η κλίμακα του γκρι"
+
+
+msgid "Information"
+msgstr "Πληροφορίες"
+
+
+msgid "Window mode"
+msgstr "Λειτουργία παραθύρου"
+
+
+msgid "Show toolbar"
+msgstr "Εμφάνιση γραμμής εργαλείων"
+
+
+msgid "Hide toolbar"
+msgstr "Απόκρυψη γραμμής εργαλείων"
+
+
+msgid "Another program instance is already running, aborting."
+msgstr "Μια άλλη παρουσία προγράμματος εκτελείται ήδη, ματαίωση."
+
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+
+msgid "General settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+
+msgid "Language:"
+msgstr "Γλώσσα:"
+
+
+msgid "View only"
+msgstr "Μόνο προβολή"
+
+
+msgid "Turn off remote wallpaper"
+msgstr "Απενεργοποιήστε την απομακρυσμένη ταπετσαρία"
+
+
+msgid "Disable GUI animations"
+msgstr "Απενεργοποιήστε κινούμενες εικόνες GUI"
+
+
+msgid "Disable Aero"
+msgstr "Απενεργοποιήστε το Aero"
+
+
+msgid "Private password:"
+msgstr "Ιδιωτικός κωδικός πρόσβασης:"
+
+
+msgid "Use direct connection"
+msgstr "Χρησιμοποιήστε απευθείας σύνδεση"
+
+
+msgid "Port number:"
+msgstr "Αριθμός θύρας:"
+
+
+msgid "to"
+msgstr "προς την"
+
+
+msgid "Quality (%)"
+msgstr "Ποιότητα (%)"
+
+
+
+msgid "version"
+msgstr "εκδοχή"
+
+
+msgid "Portions copyright:"
+msgstr "Πνευματικά δικαιώματα μερίδων:"
+
+
+
+msgid "Display license"
+msgstr "Εμφάνιση άδειας"
+
+
+msgid "About"
+msgstr "Πληροφορίες"
+
+
+msgid "Open settings folder"
+msgstr "Ανοίξτε το φάκελο ρυθμίσεων"
+
+
+msgid "OK"
+msgstr "Εντάξει"
+
+
+msgid "System default"
+msgstr "Προεπιλογή συστήματος"
+
+
+msgid "English"
+msgstr "Αγγλικά"
+
+
+msgid "Polish"
+msgstr "Στίλβωση"
+
+
+msgid "Downloading information about the update"
+msgstr "Λήψη πληροφοριών σχετικά με την ενημέρωση"
+
+
+msgid "Connecting"
+msgstr "Συνδετικός"
+
+
+msgid "Downloaded"
+msgstr "Έγινε λήψη"
+
+
+msgid "Download complete"
+msgstr "Η λήψη ολοκληρώθηκε"
+
+
+msgid "Canceling the update"
+msgstr "Ακύρωση της ενημέρωσης"
+
+
+msgid "Starting data exchange"
+msgstr "Έναρξη ανταλλαγής δεδομένων"
+
+
+msgid "Checking client status"
+msgstr "Έλεγχος κατάστασης πελάτη"
+
+
+msgid "Checking client status timeout"
+msgstr "Έλεγχος χρονικού ορίου κατάστασης πελάτη"
+
+
+msgid "Exchanging RSA keys"
+msgstr "Ανταλλαγή κλειδιών RSA"
+
+
+msgid "Authorization"
+msgstr "Εξουσιοδότηση"
+
+
+msgid "Connected"
+msgstr "Συνδεδεμένος"
+
+
+msgid "Authorization failed"
+msgstr "Η εξουσιοδότηση απέτυχε"
+
+
+
+
+
+msgid "Connection initialization failed"
+msgstr "Η προετοιμασία σύνδεσης απέτυχε"
+
+
+msgid "Connection initialization timeout"
+msgstr "Χρονικό όριο αρχικοποίησης σύνδεσης"
+
+
+msgid "Initiation of direct connection"
+msgstr "Έναρξη άμεσης σύνδεσης"
+
+
+msgid "The direct connection attempt failed"
+msgstr "Η απόπειρα άμεσης σύνδεσης απέτυχε"
+
+
+msgid "Initializing the P2P connection"
+msgstr "Αρχικοποίηση της σύνδεσης P2P"
+
+
+msgid "Initializing the UDP connection"
+msgstr "Αρχικοποίηση της σύνδεσης UDP"
+
+
+msgid "Connected, receiving data"
+msgstr "Συνδεδεμένο, λήψη δεδομένων"
+
+
+msgid "Client"
+msgstr "Πελάτης"
+
+
+msgid "Connected, sending data"
+msgstr "Συνδεδεμένο, αποστολή δεδομένων"
+
+
+
+msgid "[language] translation:"
+msgstr "Ελληνική μετάφραση:"
+
+
+
+msgid "Language_autor"
+msgstr "Μεταφραστής"
+
+
+msgid "Send"
+msgstr "Στείλετε"
+
+
+msgid "Chat with"
+msgstr "Συζήτηση με"
+
+
+msgid "Free version, buy a license"
+msgstr "Δωρεάν έκδοση, αγοράστε μια άδεια"
+
+
+msgid "Open chat window"
+msgstr "Ανοίξτε το παράθυρο συνομιλίας"
+
+
+msgid "An upgrade to the new version is required, you can download the new version from: "
+msgstr "Απαιτείται αναβάθμιση στη νέα έκδοση, μπορείτε να κάνετε λήψη της νέας έκδοσης από:"
+
+
+msgid "License has expired, buy new"
+msgstr "Η άδεια έχει λήξει, αγοράστε νέα"
+
+
+msgid "The limit of %d connections"
+msgstr "Το όριο των %d συνδέσεων"
+
+
+msgid "The maximum number of %d simultaneous connections for the license has been exceeded."
+msgstr "Έχει ξεπεραστεί ο μέγιστος αριθμός των %d ταυτόχρονων συνδέσεων για την άδεια."
+
+
+msgid "Limit of the free version."
+msgstr "Όριο της δωρεάν έκδοσης."
+
+
+msgid "The maximum number of simultaneous connections has been exceeded."
+msgstr "Υπέρβαση του μέγιστου αριθμού ταυτόχρονων συνδέσεων."
+
+
+msgid "The file already exists. Do you want to overwrite it?"
+msgstr "Το αρχείο υπάρχει ήδη. Θέλετε να το αντικαταστήσετε;"
+
+
+
+msgid "Confirm"
+msgstr "Επιβεβαιώνω"
+
+
+msgid "The directory already exists. Do you want to overwrite it?"
+msgstr "Ο κατάλογος υπάρχει ήδη. Θέλετε να το αντικαταστήσετε;"
+
+
+msgid "Sending:"
+msgstr "Αποστολή:"
+
+
+msgid "Receiving:"
+msgstr "Λήψη:"
+
+
+
+
+
+msgid "File transfer"
+msgstr "Μεταφορά αρχείων"
+
+
+msgid "Local computer"
+msgstr "Τοπικός υπολογιστής"
+
+
+msgid "Remote computer"
+msgstr "Απομακρυσμένος υπολογιστής"
+
+
+msgid "Receive"
+msgstr "Λαμβάνω"
+
+
+msgid "Ready"
+msgstr "Ετοιμος"
+
+
+
+
+msgid "Desktop"
+msgstr "Επιφάνεια εργασίας"
+
+
+
+
+msgid "My Documents"
+msgstr "Τα αρχεία μου"
+
+
+msgid "Analyzing"
+msgstr "Ανάλυση"
+
+
+msgid "The file in this location is not writable."
+msgstr "Το αρχείο σε αυτήν την τοποθεσία δεν είναι εγγράψιμο."
+
+
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+
+msgid "New folder"
+msgstr "Νέος φάκελος"
+
+
+msgid "Click to show info"
+msgstr "Κάντε κλικ για εμφάνιση πληροφοριών"
+
+
+msgid "Chat"
+msgstr "Συνομιλία"
+
+
+msgid "Default:"
+msgstr "Προκαθορισμένο:"
+
+
+msgid "Default image quality"
+msgstr "Προεπιλεγμένη ποιότητα εικόνας"
+
+
+msgid "Enter the license key to use the license with this installation.\n"
+"The key was sent in an e-mail after the purchase."
+msgstr "Εισαγάγετε το κλειδί άδειας χρήσης για να χρησιμοποιήσετε την άδεια με αυτήν την εγκατάσταση.\n"
+"Το κλειδί εστάλη σε e-mail μετά την αγορά."
+
+
+msgid "Remove license key"
+msgstr "Κατάργηση κλειδιού άδειας"
+
+
+msgid "Save the license key"
+msgstr "Αποθηκεύστε το κλειδί άδειας"
+
+
+msgid "License key"
+msgstr "Κλειδί άδειας χρήσης"
+
+
+msgid "Spanish"
+msgstr "Ισπανικά"
+
+
+msgid "Spanish (AR)"
+msgstr "Ισπανικά (Aργεντ.)"
+
+
+msgid "Incorrect license key."
+msgstr "Εσφαλμένο κλειδί άδειας."
+
+
+msgid "Enabling this option will attempt to connect directly.\n"
+"It works only when you are the initiator of the connection.\n"
+"This is the fastest way to connect without negotiating the connection and proxy server.\n"
+"\n"
+"IMPORTANT!\n"
+"The router must have TCP port forwarding set (defined below)\n"
+"and appropriate settings in the firewall of your operating system.\n"
+"You need as many ports as many simultaneous connections you want to use."
+msgstr "Η ενεργοποίηση αυτής της επιλογής θα προσπαθήσει να συνδεθεί απευθείας.\n"
+"Λειτουργεί μόνο όταν είστε ο εκκινητής της σύνδεσης.\n"
+"Αυτός είναι ο γρηγορότερος τρόπος σύνδεσης χωρίς διαπραγμάτευση της σύνδεσης και του διακομιστή μεσολάβησης.\n"
+"\n"
+"ΣΥΜΑΝΤΙΚΟ !\n"
+"Ο δρομολογητής πρέπει να έχει σετ προώθησης θύρας TCP (ορίζεται παρακάτω)\n"
+"και κατάλληλες ρυθμίσεις στο τείχος προστασίας του λειτουργικού σας συστήματος.\n"
+"Χρειάζεστε τόσες θύρες όσο πολλές ταυτόχρονες συνδέσεις θέλετε να χρησιμοποιήσετε. "
+
+
+msgid "Password generator"
+msgstr "Δημιουργία κωδικού"
+
+
+msgid "Refresh password after disconnect"
+msgstr "Ανανέωση κωδικού μετά την αποσύνδεση"
+
+
+msgid "Use letters"
+msgstr "Χρησιμοποιήστε γράμματα"
+
+
+msgid "Password length:"
+msgstr "Μήκος κωδικού :"
+
+
+msgid "Generate new password, to set private password go to settings."
+msgstr "Δημιουργήστε νέο κωδικό πρόσβασης, για να ορίσετε τον ιδιωτικό κωδικό πρόσβασης μεταβείτε στις ρυθμίσεις."
+
+
+msgid "You closed the connection "
+msgstr "Κλείσατε τη σύνδεση"
+
+
+msgid "Powered by "
+msgstr "Υποστηρίζεται από"
+
+
+msgid "An upgrade to the new version is required."
+msgstr "Απαιτείται αναβάθμιση στη νέα έκδοση."
+
+
+msgid "The license has expired."
+msgstr "Η άδεια έχει λήξει."
+
+
+msgid "Canceled"
+msgstr "Ακυρώθηκε"
+
+
+msgid "Do you want to cancel file transfer?"
+msgstr "Θέλετε να ακυρώσετε τη μεταφορά αρχείων;"
+
+
+msgid "Select the destination folder on the local computer."
+msgstr "Επιλέξτε το φάκελο προορισμού στον τοπικό υπολογιστή."
+
+
+msgid "Select the destination folder on the remote computer."
+msgstr "Επιλέξτε το φάκελο προορισμού στον απομακρυσμένο υπολογιστή."
+
+
+msgid "The screen cannot be captured at the moment. This is probably due to\n"
+"fast user switching or a disconnected/minimized Remote Desktop\n"
+"session."
+msgstr "Δεν είναι δυνατή η λήψη της οθόνης αυτήν τη στιγμή. Αυτό οφείλεται πιθανώς στη γρήγορη εναλλαγή χρηστών ή αποσυνδεδεμένη / ελαχιστοποιημένη συνεδρία απομακρυσμένης επιφάνειας εργασίας"
+
+
+msgid "Startup"
+msgstr "Ξεκίνημα"
+
+
+msgid "Start at Login"
+msgstr "Ξεκινήστε από το Login"
+
+
+msgid "Start minimized"
+msgstr "Έναρξη ελαχιστοποίησης"
+
+
+msgid "The connection was broken. Connection is resuming..."
+msgstr "Η σύνδεση είχε διακοπεί. Η σύνδεση συνεχίζεται ..."
+
+
+msgid "Clipboard"
+msgstr "Πρόχειρο"
+
+
+msgid "File copying canceled."
+msgstr "Η αντιγραφή αρχείου ακυρώθηκε."
+
+
+msgid "Copying: "
+msgstr "Αντιγραφή:"
+
+
+msgid "File copying completed."
+msgstr "Η αντιγραφή αρχείου ολοκληρώθηκε."
+
+
+msgid "Copying folder: "
+msgstr "Αντιγραφή φακέλου:"
+
+
+msgid "File transfer completed"
+msgstr "Η μεταφορά αρχείων ολοκληρώθηκε"
+
+
+msgid "File transfer canceled"
+msgstr "Η μεταφορά αρχείων ακυρώθηκε"
+
+
+msgid "Update is required"
+msgstr "Απαιτείται ενημέρωση"
+
+
+msgid "Insufficient permission to perform update in this location."
+msgstr "Ανεπαρκής άδεια για εκτέλεση ενημέρωσης σε αυτήν την τοποθεσία."
+
+
+msgid "Program is still running"
+msgstr "Το πρόγραμμα εξακολουθεί να εκτελείται"
+
+
+msgid "Show &DesktopAssist"
+msgstr "Εμφάνιση DesktopAssist"
+
+
+msgid "&Settings"
+msgstr "Ρυθμίσεις"
+
+
+msgid "E&xit"
+msgstr "Έξοδος"
+
+
+msgid "The selected language is not supported by your system.\n"
+"Try installing support for this language."
+msgstr "Η επιλεγμένη γλώσσα δεν υποστηρίζεται από το σύστημά σας. Δοκιμάστε να εγκαταστήσετε υποστήριξη για αυτήν τη γλώσσα."
+
+
+msgid "Incoming connection"
+msgstr "Εισερχόμενη σύνδεση"
+
+
+msgid "Image quality"
+msgstr "Ποιότητα εικόνας"
+
+
+msgid "Control automatically"
+msgstr "Ελέγξτε αυτόματα"
+
+
+msgid "Reduce to 256 colors"
+msgstr "Μειώστε σε 256 χρώματα"
+
+
+msgid "Send key combinations"
+msgstr "Αποστολή συνδυασμών κλειδιών"
+
+
+msgid "Aspect ratio"
+msgstr "Αναλογία απεικόνισης"
+
+
+msgid "Fit to window"
+msgstr "Προσαρμογή στο παράθυρο"
+
+
+msgid "Automatic quality"
+msgstr "Αυτόματη ποιότητα"
+
+
+msgid "256 colors"
+msgstr "256 χρώματα"
+
+
+msgid "Keyboards actions"
+msgstr "Ενέργειες πληκτρολογίων"
+
+
+msgid "Send Ctrl+Alt+Del"
+msgstr "Αποστολή Ctrl + Alt + Del"
+
+
+msgid "Dutch"
+msgstr "Ολλανδός"
+
+
+msgid "Italian"
+msgstr "Ιταλικός"
+
+
+msgid "French"
+msgstr "Γαλλική γλώσσα."
+
+
+msgid "Russian"
+msgstr "Ρωσική"
+
+
+msgid "Greek"
+msgstr "Ελληνικά"
+
+
+msgid "Portuguese"
+msgstr "Πορτογαλικά"
+
+
+msgid "German"
+msgstr "Γερμανός"
+
