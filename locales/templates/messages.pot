@@ -1,21 +1,20 @@
-# Loco Gettext template
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: messages.po conversion\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-10 10:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: DesktopAssist\n"
+"POT-Creation-Date: 2021-03-10 21:41+0100\n"
+"PO-Revision-Date: 2021-03-10 21:43+0100\n"
+"Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz\n"
-"X-Loco-Source-Locale: en\n"
-"X-Loco-Api-Version: 1.0.25 20201230-1"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
 
 msgid "Aliases"
 msgstr ""
@@ -44,6 +43,9 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+msgid "Connect"
+msgstr ""
+
 msgid "Close"
 msgstr ""
 
@@ -68,6 +70,24 @@ msgstr ""
 msgid "Question"
 msgstr ""
 
+msgid "Send"
+msgstr ""
+
+msgid "Chat with"
+msgstr ""
+
+msgid "Desktop sharing"
+msgstr ""
+
+msgid "DesktopAssist shares your desktop"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Disconnect all"
+msgstr ""
+
 msgid "Your connection data"
 msgstr ""
 
@@ -75,6 +95,9 @@ msgid "Your ID:"
 msgstr ""
 
 msgid "Password:"
+msgstr ""
+
+msgid "Generate new password, to set private password go to settings."
 msgstr ""
 
 msgid "Generate new password"
@@ -92,16 +115,22 @@ msgstr ""
 msgid "Wrong password"
 msgstr ""
 
-msgid "Connect"
+msgid "Offline"
 msgstr ""
 
-msgid "Offline"
+msgid "Free version, buy a license"
 msgstr ""
 
 msgid "Connections encrypted with OpenSSL 256-bit AES"
 msgstr ""
 
 msgid "Count of connected clients"
+msgstr ""
+
+msgid "Open chat window"
+msgstr ""
+
+msgid "Update available"
 msgstr ""
 
 msgid "Amount of downloaded and uploaded data"
@@ -122,13 +151,27 @@ msgstr ""
 msgid "Password too short - minimum length is 4 characters"
 msgstr ""
 
+msgid "Update is required"
+msgstr ""
+
 msgid "An upgrade to the new version is required, if you agree click 'Yes'."
 msgstr ""
 
 msgid "Otherwise, you can download the new version from:"
 msgstr ""
 
+msgid ""
+"An upgrade to the new version is required, you can download the new version "
+"from: "
+msgstr ""
+
 msgid "Update"
+msgstr ""
+
+msgid "Insufficient permission to perform update in this location."
+msgstr ""
+
+msgid "License has expired, buy new"
 msgstr ""
 
 msgid "Online"
@@ -140,6 +183,22 @@ msgstr ""
 msgid "Client offline"
 msgstr ""
 
+#, c-format
+msgid "The limit of %d connections"
+msgstr ""
+
+#, c-format
+msgid ""
+"The maximum number of %d simultaneous connections for the license has been "
+"exceeded."
+msgstr ""
+
+msgid "Limit of the free version."
+msgstr ""
+
+msgid "The maximum number of simultaneous connections has been exceeded."
+msgstr ""
+
 msgid "Direct connection"
 msgstr ""
 
@@ -149,10 +208,110 @@ msgstr ""
 msgid "Disconnected"
 msgstr ""
 
+msgid "You closed the connection "
+msgstr ""
+
 msgid "Save file"
 msgstr ""
 
 msgid "Exceeded limit of incorrect authorizations, wait "
+msgstr ""
+
+msgid "Program is still running"
+msgstr ""
+
+msgid ""
+"An upgrade to the new version is available, if you want to update click "
+"'Yes'."
+msgstr ""
+
+msgid ""
+"An upgrade to the new version is available, you can download the new version "
+"from: "
+msgstr ""
+
+msgid "Show &DesktopAssist"
+msgstr ""
+
+msgid "&Settings"
+msgstr ""
+
+msgid "E&xit"
+msgstr ""
+
+msgid "Powered by "
+msgstr ""
+
+msgid "An upgrade to the new version is required."
+msgstr ""
+
+msgid "The file already exists. Do you want to overwrite it?"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "The directory already exists. Do you want to overwrite it?"
+msgstr ""
+
+msgid "The file in this location is not writable."
+msgstr ""
+
+msgid "Sending:"
+msgstr ""
+
+msgid "Receiving:"
+msgstr ""
+
+msgid "File transfer"
+msgstr ""
+
+msgid "Local computer"
+msgstr ""
+
+msgid "Remote computer"
+msgstr ""
+
+msgid "Receive"
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "My Documents"
+msgstr ""
+
+msgid "Analyzing"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Do you want to cancel file transfer?"
+msgstr ""
+
+msgid "New folder"
+msgstr ""
+
+msgid "Select the destination folder on the local computer."
+msgstr ""
+
+msgid "Select the destination folder on the remote computer."
+msgstr ""
+
+msgid "DesktopAssist"
+msgstr ""
+
+msgid "Remote access software"
 msgstr ""
 
 msgid "License"
@@ -167,7 +326,10 @@ msgstr ""
 msgid "Details"
 msgstr ""
 
-msgid "Cancel"
+msgid ""
+"The screen cannot be captured at the moment. This is probably due to\n"
+"fast user switching or a disconnected/minimized Remote Desktop\n"
+"session."
 msgstr ""
 
 msgid ""
@@ -183,7 +345,55 @@ msgid ""
 "and the application is running as an Administrator."
 msgstr ""
 
+msgid "Click to show info"
+msgstr ""
+
 msgid "Windows UAC is enabled"
+msgstr ""
+
+msgid "Keyboard actions"
+msgstr ""
+
+msgid "Quality"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Change the monitor"
+msgstr ""
+
+msgid "Full screen"
+msgstr ""
+
+msgid "Aspect ratio"
+msgstr ""
+
+msgid "Fit to window"
+msgstr ""
+
+msgid "Automatic quality"
+msgstr ""
+
+msgid "256 colors"
+msgstr ""
+
+msgid "Default:"
+msgstr ""
+
+msgid "Send Ctrl+Alt+Del"
+msgstr ""
+
+msgid "Send key combinations"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Window mode"
+msgstr ""
+
+msgid "Client has view only mode enabled."
 msgstr ""
 
 msgid "Send Ctrl+Alt+Delete"
@@ -192,22 +402,10 @@ msgstr ""
 msgid "Grayscale disabled"
 msgstr ""
 
-msgid "Quality"
-msgstr ""
-
-msgid "Full screen"
-msgstr ""
-
 msgid "Hide the toolbar"
 msgstr ""
 
 msgid "Grayscale enabled"
-msgstr ""
-
-msgid "Information"
-msgstr ""
-
-msgid "Window mode"
 msgstr ""
 
 msgid "Show toolbar"
@@ -243,6 +441,18 @@ msgstr ""
 msgid "Private password:"
 msgstr ""
 
+msgid "Password generator"
+msgstr ""
+
+msgid "Refresh password after disconnect"
+msgstr ""
+
+msgid "Use letters"
+msgstr ""
+
+msgid "Password length:"
+msgstr ""
+
 msgid "Use direct connection"
 msgstr ""
 
@@ -252,7 +462,36 @@ msgstr ""
 msgid "to"
 msgstr ""
 
+msgid "Image quality"
+msgstr ""
+
+msgid "Control automatically"
+msgstr ""
+
 msgid "Quality (%)"
+msgstr ""
+
+msgid "Reduce to 256 colors"
+msgstr ""
+
+msgid "Startup"
+msgstr ""
+
+msgid "Start at Login"
+msgstr ""
+
+msgid "Start minimized"
+msgstr ""
+
+msgid ""
+"Enter the license key to use the license with this installation.\n"
+"The key was sent in an e-mail after the purchase."
+msgstr ""
+
+msgid "Remove license key"
+msgstr ""
+
+msgid "Save the license key"
 msgstr ""
 
 msgid "version"
@@ -261,7 +500,7 @@ msgstr ""
 msgid "Portions copyright:"
 msgstr ""
 
-msgid "Display license"
+msgid "License key"
 msgstr ""
 
 msgid "About"
@@ -270,16 +509,75 @@ msgstr ""
 msgid "Open settings folder"
 msgstr ""
 
+msgid "Install"
+msgstr ""
+
 msgid "OK"
 msgstr ""
 
 msgid "System default"
 msgstr ""
 
+msgid "Dutch"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
 msgid "English"
 msgstr ""
 
+msgid "French"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
 msgid "Polish"
+msgstr ""
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Spanish (AR)"
+msgstr ""
+
+msgid "[language] translation:"
+msgstr ""
+
+msgid "Language_autor"
+msgstr ""
+
+msgid "Display license"
+msgstr ""
+
+msgid ""
+"The selected language is not supported by your system.\n"
+"Try installing support for this language."
+msgstr ""
+
+msgid "Incorrect license key."
+msgstr ""
+
+msgid ""
+"Enabling this option will attempt to connect directly.\n"
+"It works only when you are the initiator of the connection.\n"
+"This is the fastest way to connect without negotiating the connection and "
+"proxy server.\n"
+"\n"
+"IMPORTANT!\n"
+"The router must have TCP port forwarding set (defined below)\n"
+"and appropriate settings in the firewall of your operating system.\n"
+"You need as many ports as many simultaneous connections you want to use."
 msgstr ""
 
 msgid "Downloading information about the update"
@@ -336,206 +634,6 @@ msgstr ""
 msgid "Initializing the UDP connection"
 msgstr ""
 
-msgid "Connected, receiving data"
-msgstr ""
-
-msgid "Client"
-msgstr ""
-
-msgid "Connected, sending data"
-msgstr ""
-
-#. [language] - Name of the translated language
-msgid "[language] translation:"
-msgstr ""
-
-#. Name of the translator
-msgid "Language_autor"
-msgstr ""
-
-msgid "Send"
-msgstr ""
-
-msgid "Chat with"
-msgstr ""
-
-msgid "Free version, buy a license"
-msgstr ""
-
-msgid "Open chat window"
-msgstr ""
-
-msgid ""
-"An upgrade to the new version is required, you can download the new version "
-"from: "
-msgstr ""
-
-msgid "License has expired, buy new"
-msgstr ""
-
-msgid "The limit of %d connections"
-msgstr ""
-
-msgid ""
-"The maximum number of %d simultaneous connections for the license has been "
-"exceeded."
-msgstr ""
-
-msgid "Limit of the free version."
-msgstr ""
-
-msgid "The maximum number of simultaneous connections has been exceeded."
-msgstr ""
-
-msgid "The file already exists. Do you want to overwrite it?"
-msgstr ""
-
-msgid "Confirm"
-msgstr ""
-
-msgid "The directory already exists. Do you want to overwrite it?"
-msgstr ""
-
-msgid "Sending:"
-msgstr ""
-
-msgid "Receiving:"
-msgstr ""
-
-msgid "File transfer"
-msgstr ""
-
-msgid "Local computer"
-msgstr ""
-
-msgid "Remote computer"
-msgstr ""
-
-msgid "Receive"
-msgstr ""
-
-msgid "Ready"
-msgstr ""
-
-msgid "Desktop"
-msgstr ""
-
-msgid "My Documents"
-msgstr ""
-
-msgid "Analyzing"
-msgstr ""
-
-msgid "The file in this location is not writable."
-msgstr ""
-
-msgid "Completed"
-msgstr ""
-
-msgid "New folder"
-msgstr ""
-
-msgid "Click to show info"
-msgstr ""
-
-msgid "Chat"
-msgstr ""
-
-msgid "Default:"
-msgstr ""
-
-msgid "Default image quality"
-msgstr ""
-
-msgid ""
-"Enter the license key to use the license with this installation.\n"
-"The key was sent in an e-mail after the purchase."
-msgstr ""
-
-msgid "Remove license key"
-msgstr ""
-
-msgid "Save the license key"
-msgstr ""
-
-msgid "License key"
-msgstr ""
-
-msgid "Spanish"
-msgstr ""
-
-msgid "Spanish (AR)"
-msgstr ""
-
-msgid "Incorrect license key."
-msgstr ""
-
-msgid ""
-"Enabling this option will attempt to connect directly.\n"
-"It works only when you are the initiator of the connection.\n"
-"This is the fastest way to connect without negotiating the connection and "
-"proxy server.\n"
-"\n"
-"IMPORTANT!\n"
-"The router must have TCP port forwarding set (defined below)\n"
-"and appropriate settings in the firewall of your operating system.\n"
-"You need as many ports as many simultaneous connections you want to use."
-msgstr ""
-
-msgid "Password generator"
-msgstr ""
-
-msgid "Refresh password after disconnect"
-msgstr ""
-
-msgid "Use letters"
-msgstr ""
-
-msgid "Password length:"
-msgstr ""
-
-msgid "Generate new password, to set private password go to settings."
-msgstr ""
-
-msgid "You closed the connection "
-msgstr ""
-
-msgid "Powered by "
-msgstr ""
-
-msgid "An upgrade to the new version is required."
-msgstr ""
-
-msgid "The license has expired."
-msgstr ""
-
-msgid "Canceled"
-msgstr ""
-
-msgid "Do you want to cancel file transfer?"
-msgstr ""
-
-msgid "Select the destination folder on the local computer."
-msgstr ""
-
-msgid "Select the destination folder on the remote computer."
-msgstr ""
-
-msgid ""
-"The screen cannot be captured at the moment. This is probably due to\n"
-"fast user switching or a disconnected/minimized Remote Desktop\n"
-"session."
-msgstr ""
-
-msgid "Startup"
-msgstr ""
-
-msgid "Start at Login"
-msgstr ""
-
-msgid "Start minimized"
-msgstr ""
-
 msgid "The connection was broken. Connection is resuming..."
 msgstr ""
 
@@ -551,6 +649,12 @@ msgstr ""
 msgid "File copying completed."
 msgstr ""
 
+msgid "Connected, receiving data"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
 msgid "Copying folder: "
 msgstr ""
 
@@ -560,79 +664,8 @@ msgstr ""
 msgid "File transfer canceled"
 msgstr ""
 
-msgid "Update is required"
-msgstr ""
-
-msgid "Insufficient permission to perform update in this location."
-msgstr ""
-
-msgid "Program is still running"
-msgstr ""
-
-msgid "Show &DesktopAssist"
-msgstr ""
-
-msgid "&Settings"
-msgstr ""
-
-msgid "E&xit"
-msgstr ""
-
-msgid ""
-"The selected language is not supported by your system.\n"
-"Try installing support for this language."
-msgstr ""
-
 msgid "Incoming connection"
 msgstr ""
 
-msgid "Image quality"
-msgstr ""
-
-msgid "Control automatically"
-msgstr ""
-
-msgid "Reduce to 256 colors"
-msgstr ""
-
-msgid "Send key combinations"
-msgstr ""
-
-msgid "Aspect ratio"
-msgstr ""
-
-msgid "Fit to window"
-msgstr ""
-
-msgid "Automatic quality"
-msgstr ""
-
-msgid "256 colors"
-msgstr ""
-
-msgid "Keyboards actions"
-msgstr ""
-
-msgid "Send Ctrl+Alt+Del"
-msgstr ""
-
-msgid "Dutch"
-msgstr ""
-
-msgid "Italian"
-msgstr ""
-
-msgid "French"
-msgstr ""
-
-msgid "Russian"
-msgstr ""
-
-msgid "Greek"
-msgstr ""
-
-msgid "Portuguese"
-msgstr ""
-
-msgid "German"
+msgid "Connected, sending data"
 msgstr ""
