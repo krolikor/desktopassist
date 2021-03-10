@@ -229,7 +229,7 @@ msgstr "Abbrechen"
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is not running as an Administrator.\n"
+"and the application is not running as an Administrator."
 ""
 msgstr "Windows UAC ist auf dem System des Kunden aktiviert\n"
 "und die Anwendung wird nicht als Administrator ausgeführt."
@@ -240,7 +240,7 @@ msgstr "Einige Programmoptionen funktionieren möglicherweise nicht richtig."
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is running as an Administrator.\n"
+"and the application is running as an Administrator."
 ""
 msgstr "Windows UAC ist auf dem System des Kunden aktiviert\n"
 "und die Anwendung wird als Administrator ausgeführt."
