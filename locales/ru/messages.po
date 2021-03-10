@@ -229,8 +229,8 @@ msgstr "Отмена"
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is not running as an Administrator.\n"
-""
+"and the application is not running as an Administrator."
+
 msgstr "В клиентской системе Windows UAC включен\n"
 "и приложение не запущено от имени администратора."
 
@@ -240,8 +240,8 @@ msgstr "Некоторые параметры программы могут ра
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is running as an Administrator.\n"
-""
+"and the application is running as an Administrator."
+
 msgstr "В клиентской системе Windows UAC включен\n"
 "и приложение работает от имени администратора."
 
