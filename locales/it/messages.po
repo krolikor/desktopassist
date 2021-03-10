@@ -229,8 +229,8 @@ msgstr "Annulla"
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is not running as an Administrator.\n"
-""
+"and the application is not running as an Administrator."
+
 msgstr "L'UAC di Windows è abilitato sul sistema del cliente\n"
 "e l'applicazione non è in esecuzione come Amministratore."
 
@@ -240,8 +240,8 @@ msgstr "Alcune opzioni del programma potrebbero non funzionare correttamente."
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is running as an Administrator.\n"
-""
+"and the application is running as an Administrator."
+
 msgstr "L'UAC di Windows è abilitato sul sistema del cliente\n"
 "e l'applicazione è in esecuzione come Amministratore."
 
