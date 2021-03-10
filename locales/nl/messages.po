@@ -229,8 +229,8 @@ msgstr "Annuleer"
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is not running as an Administrator.\n"
-""
+"and the application is not running as an Administrator."
+
 msgstr "Windows UAC is ingeschakeld op het systeem van de klant\n"
 "en de applicatie draait niet als Administrator."
 
@@ -240,8 +240,8 @@ msgstr "Sommige programma-opties werken mogelijk niet goed."
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is running as an Administrator.\n"
-""
+"and the application is running as an Administrator."
+
 msgstr "Windows UAC is ingeschakeld op het systeem van de klant\n"
 "en de applicatie draait als Administrator."
 
