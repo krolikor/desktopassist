@@ -230,11 +230,10 @@ msgstr "Cancelar"
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is not running as an Administrator.\n"
-""
+"and the application is not running as an Administrator."
+
 msgstr "Windows UAC está habilitado en equipo cliente\n"
-"y la aplicación no se está ejecutando como Administrador.\n"
-""
+"y la aplicación no se está ejecutando como Administrador."
 
 
 msgid "Some program options may not work correctly."
@@ -242,11 +241,10 @@ msgstr "Algunas opciones del programa puede que no funcionen correctamente."
 
 
 msgid "Windows UAC is enabled on the client's system\n"
-"and the application is running as an Administrator.\n"
-""
+"and the application is running as an Administrator."
+
 msgstr "Windows UAC está habilitado en el equipo cliente\n"
-"y la aplicación se está ejecutando como Administrador.\n"
-""
+"y la aplicación se está ejecutando como Administrador."
 
 
 msgid "Windows UAC is enabled"
