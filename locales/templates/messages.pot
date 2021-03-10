@@ -172,7 +172,7 @@ msgstr ""
 
 msgid ""
 "Windows UAC is enabled on the client's system\n"
-"and the application is not running as an Administrator.\n"
+"and the application is not running as an Administrator."
 msgstr ""
 
 msgid "Some program options may not work correctly."
@@ -180,7 +180,7 @@ msgstr ""
 
 msgid ""
 "Windows UAC is enabled on the client's system\n"
-"and the application is running as an Administrator.\n"
+"and the application is running as an Administrator."
 msgstr ""
 
 msgid "Windows UAC is enabled"
