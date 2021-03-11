@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: DesktopAssist.po conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 21:43+0100\n"
-"PO-Revision-Date: 2021-03-10 18:04+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-03-11 12:36+0000\n"
+"Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -78,16 +78,16 @@ msgid "Chat with"
 msgstr "Chatear con"
 
 msgid "Desktop sharing"
-msgstr ""
+msgstr "Compartir el escritorio"
 
 msgid "DesktopAssist shares your desktop"
-msgstr ""
+msgstr "DesktopAssist comparte su escritorio"
 
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 msgid "Disconnect all"
-msgstr ""
+msgstr "Desconecte todos los"
 
 msgid "Your connection data"
 msgstr "Tu conexión de datos"
@@ -132,7 +132,7 @@ msgid "Open chat window"
 msgstr "Abrir ventana de chat"
 
 msgid "Update available"
-msgstr ""
+msgstr "Actualización disponible"
 
 msgid "Amount of downloaded and uploaded data"
 msgstr "Cantidad de datos descargados y subidos"
@@ -218,10 +218,10 @@ msgid "Program is still running"
 msgstr "El programa aún se está ejecutando."
 
 msgid "An upgrade to the new version is available, if you want to update click 'Yes'."
-msgstr ""
+msgstr "La actualización a la nueva versión está disponible, si desea actualizar haga clic en \"Sí\"."
 
 msgid "An upgrade to the new version is available, you can download the new version from: "
-msgstr ""
+msgstr "The upgrade to the new version is available, if you want to upgrade click 'Yes'."
 
 msgid "Show &DesktopAssist"
 msgstr "Mostrar &DesktopAssist"
@@ -302,10 +302,10 @@ msgid "Select the destination folder on the remote computer."
 msgstr "Seleccione la carpeta de destino en la computadora remota."
 
 msgid "DesktopAssist"
-msgstr ""
+msgstr "DesktopAssist"
 
 msgid "Remote access software"
-msgstr ""
+msgstr "Software de acceso remoto"
 
 msgid "License"
 msgstr "Licencia"
@@ -352,7 +352,7 @@ msgid "Windows UAC is enabled"
 msgstr "Windows UAC esta habilitado"
 
 msgid "Keyboard actions"
-msgstr ""
+msgstr "Acciones del teclado"
 
 msgid "Quality"
 msgstr "Calidad"
@@ -361,7 +361,7 @@ msgid "Chat"
 msgstr "Charla"
 
 msgid "Change the monitor"
-msgstr ""
+msgstr "Cambiar el monitor"
 
 msgid "Full screen"
 msgstr "Pantalla completa"
@@ -394,7 +394,7 @@ msgid "Window mode"
 msgstr "Modo ventana"
 
 msgid "Client has view only mode enabled."
-msgstr ""
+msgstr "El cliente tiene activado el modo de sólo visualización."
 
 msgid "Send Ctrl+Alt+Delete"
 msgstr "Enviar Ctrl+Alt+Supr"
@@ -512,7 +512,7 @@ msgid "Open settings folder"
 msgstr "Abrir carpeta de ajustes"
 
 msgid "Install"
-msgstr ""
+msgstr "Instalar"
 
 msgid "OK"
 msgstr "OK"
