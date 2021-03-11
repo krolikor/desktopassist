@@ -5,668 +5,678 @@ msgstr ""
 "Project-Id-Version: DesktopAssist.po conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 21:43+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-03-11 12:07+0000\n"
+"Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
-"Language: \n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
+"X-Loco-Api-Version: 1.0.25 20201230-1\n"
 "X-Loco-Source-Locale: pl-PL\n"
-"X-Loco-Api-Version: 1.0.25 20201230-1"
 
 msgid "Aliases"
-msgstr ""
+msgstr "Alias"
 
 msgid "List of aliases"
-msgstr ""
+msgstr "Liste des alias"
 
 msgid "Alias editor"
-msgstr ""
+msgstr "Alias éditeur"
 
 msgid "Client ID:"
-msgstr ""
+msgstr "Identification du client :"
 
 msgid "Alias name:"
-msgstr ""
+msgstr "Nom d'alias :"
 
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 msgid "Connect"
-msgstr ""
+msgstr "Connexion"
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 msgid "The client ID can not be empty."
-msgstr ""
+msgstr "Le numéro d'identification du client ne peut pas être vide."
 
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 msgid "The name of the alias can not be empty"
-msgstr ""
+msgstr "Le nom du pseudonyme ne peut pas être vide"
 
 msgid "The name of the alias already exists."
-msgstr ""
+msgstr "Le nom de l'alias existe déjà."
 
 msgid "Alias name and ID already exists."
-msgstr ""
+msgstr "Le nom d'alias et la carte d'identité existent déjà."
 
 msgid "Do you want to save changes?"
-msgstr ""
+msgstr "Vous voulez sauvegarder les modifications ?"
 
 msgid "Question"
-msgstr ""
+msgstr "Question"
 
 msgid "Send"
-msgstr ""
+msgstr "Envoyer"
 
 msgid "Chat with"
-msgstr ""
+msgstr "Chattez avec"
 
 msgid "Desktop sharing"
-msgstr ""
+msgstr "Partage du bureau"
 
 msgid "DesktopAssist shares your desktop"
-msgstr ""
+msgstr "DesktopAssist partage votre bureau"
 
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 msgid "Disconnect all"
-msgstr ""
+msgstr "Déconnecter tous les"
 
 msgid "Your connection data"
-msgstr ""
+msgstr "Vos données de connexion"
 
 msgid "Your ID:"
-msgstr ""
+msgstr "Votre carte d'identité :"
 
 msgid "Password:"
-msgstr ""
+msgstr "Mot de passe :"
 
 msgid "Generate new password, to set private password go to settings."
-msgstr ""
+msgstr "Générer un nouveau mot de passe, pour définir un mot de passe privé, allez dans les paramètres."
 
 msgid "Generate new password"
-msgstr ""
+msgstr "Générer un nouveau mot de passe"
 
 msgid "Connect to client"
-msgstr ""
+msgstr "Se connecter au client"
 
 msgid "Add/Edit alias"
-msgstr ""
+msgstr "Ajouter/Modifier un alias"
 
 msgid "ID does not exist or client disconnected"
-msgstr ""
+msgstr "L'identifiant n'existe pas ou le client est déconnecté"
 
 msgid "Wrong password"
-msgstr ""
+msgstr "Mot de passe incorrect"
 
 msgid "Offline"
-msgstr ""
+msgstr "Hors ligne"
 
 msgid "Free version, buy a license"
-msgstr ""
+msgstr "Version gratuite, acheter une licence"
 
 msgid "Connections encrypted with OpenSSL 256-bit AES"
-msgstr ""
+msgstr "Connexions cryptées avec OpenSSL 256-bit AES"
 
 msgid "Count of connected clients"
-msgstr ""
+msgstr "Nombre de clients connectés"
 
 msgid "Open chat window"
-msgstr ""
+msgstr "Ouvrir la fenêtre de chat"
 
 msgid "Update available"
-msgstr ""
+msgstr "Mise à jour disponible"
 
 msgid "Amount of downloaded and uploaded data"
-msgstr ""
+msgstr "Quantité de données téléchargées et chargées"
 
 msgid "Quit"
-msgstr ""
+msgstr "Démissionner"
 
 msgid "Incorrect client ID"
-msgstr ""
+msgstr "Mauvaise identification du client"
 
 msgid "The given ID number is the same as yours."
-msgstr ""
+msgstr "Le numéro d'identification donné est le même que le vôtre."
 
 msgid "Password can't be blank"
-msgstr ""
+msgstr "Le mot de passe ne peut pas être vide"
 
 msgid "Password too short - minimum length is 4 characters"
-msgstr ""
+msgstr "Mot de passe trop court - longueur minimale de 4 caractères"
 
 msgid "Update is required"
-msgstr ""
+msgstr "Une mise à jour est nécessaire"
 
 msgid "An upgrade to the new version is required, if you agree click 'Yes'."
-msgstr ""
+msgstr "Une mise à jour vers la nouvelle version est nécessaire, si vous acceptez, cliquez sur \"Oui\"."
 
 msgid "Otherwise, you can download the new version from:"
-msgstr ""
+msgstr "Sinon, vous pouvez télécharger la nouvelle version à partir de :"
 
-msgid ""
-"An upgrade to the new version is required, you can download the new version "
-"from: "
-msgstr ""
+msgid "An upgrade to the new version is required, you can download the new version from: "
+msgstr "Une mise à jour vers la nouvelle version est nécessaire, vous pouvez télécharger la nouvelle version à partir de : "
 
 msgid "Update"
-msgstr ""
+msgstr "Mise à jour"
 
 msgid "Insufficient permission to perform update in this location."
-msgstr ""
+msgstr "Autorisation insuffisante pour effectuer la mise à jour à cet endroit."
 
 msgid "License has expired, buy new"
-msgstr ""
+msgstr "La licence a expiré, achetez-en une nouvelle"
 
 msgid "Online"
-msgstr ""
+msgstr "En ligne"
 
 msgid "Error checking client ID"
-msgstr ""
+msgstr "Erreur de vérification de l'identité du client"
 
 msgid "Client offline"
-msgstr ""
+msgstr "Client hors ligne"
 
 #, c-format
 msgid "The limit of %d connections"
-msgstr ""
+msgstr "La limite des connexions %d"
 
 #, c-format
-msgid ""
-"The maximum number of %d simultaneous connections for the license has been "
-"exceeded."
-msgstr ""
+msgid "The maximum number of %d simultaneous connections for the license has been exceeded."
+msgstr "Le nombre maximum de %d de connexions simultanées pour la licence a été dépassé."
 
 msgid "Limit of the free version."
-msgstr ""
+msgstr "Limite de la version gratuite."
 
 msgid "The maximum number of simultaneous connections has been exceeded."
-msgstr ""
+msgstr "Le nombre maximum de connexions simultanées a été dépassé."
 
 msgid "Direct connection"
-msgstr ""
+msgstr "Connexion directe"
 
 msgid "Your partner closed the connection"
-msgstr ""
+msgstr "Votre partenaire a fermé la connexion"
 
 msgid "Disconnected"
-msgstr ""
+msgstr "Déconnecté"
 
 msgid "You closed the connection "
-msgstr ""
+msgstr "Vous avez fermé la connexion "
 
 msgid "Save file"
-msgstr ""
+msgstr "Enregistrer le fichier"
 
 msgid "Exceeded limit of incorrect authorizations, wait "
-msgstr ""
+msgstr "Dépassement de la limite des autorisations incorrectes, attendre "
 
 msgid "Program is still running"
-msgstr ""
+msgstr "Le programme est toujours en cours"
 
-msgid ""
-"An upgrade to the new version is available, if you want to update click "
-"'Yes'."
-msgstr ""
+msgid "An upgrade to the new version is available, if you want to update click 'Yes'."
+msgstr "Une mise à niveau vers la nouvelle version est disponible, si vous souhaitez la mettre à jour, cliquez sur 'Oui'."
 
-msgid ""
-"An upgrade to the new version is available, you can download the new version "
-"from: "
-msgstr ""
+msgid "An upgrade to the new version is available, you can download the new version from: "
+msgstr "Une mise à niveau vers la nouvelle version est disponible, vous pouvez télécharger la nouvelle version à partir de : "
 
 msgid "Show &DesktopAssist"
-msgstr ""
+msgstr "Afficher &DesktopAssist"
 
 msgid "&Settings"
-msgstr ""
+msgstr "&Réglages"
 
 msgid "E&xit"
-msgstr ""
+msgstr "E&xit"
 
 msgid "Powered by "
-msgstr ""
+msgstr "Propulsé par "
 
 msgid "An upgrade to the new version is required."
-msgstr ""
+msgstr "Une mise à jour vers la nouvelle version est nécessaire."
 
 msgid "The file already exists. Do you want to overwrite it?"
-msgstr ""
+msgstr "Le fichier existe déjà. Voulez-vous l'écraser ?"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmer"
 
 msgid "The directory already exists. Do you want to overwrite it?"
-msgstr ""
+msgstr "Le répertoire existe déjà. Voulez-vous l'écraser ?"
 
 msgid "The file in this location is not writable."
-msgstr ""
+msgstr "Le fichier à cet endroit n'est pas inscriptible."
 
 msgid "Sending:"
-msgstr ""
+msgstr "Envoi :"
 
 msgid "Receiving:"
-msgstr ""
+msgstr "Réception :"
 
 msgid "File transfer"
-msgstr ""
+msgstr "Transfert de fichiers"
 
 msgid "Local computer"
-msgstr ""
+msgstr "Ordinateur local"
 
 msgid "Remote computer"
-msgstr ""
+msgstr "Ordinateur distant"
 
 msgid "Receive"
-msgstr ""
+msgstr "Recevoir"
 
 msgid "Ready"
-msgstr ""
+msgstr "Prêt"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Bureau"
 
 msgid "My Documents"
-msgstr ""
+msgstr "Mes documents"
 
 msgid "Analyzing"
-msgstr ""
+msgstr "Analyser"
 
 msgid "Completed"
-msgstr ""
+msgstr "Terminé"
 
 msgid "Canceled"
-msgstr ""
+msgstr "Annulé"
 
 msgid "Do you want to cancel file transfer?"
-msgstr ""
+msgstr "Vous souhaitez annuler le transfert de fichiers ?"
 
 msgid "New folder"
-msgstr ""
+msgstr "Nouveau dossier"
 
 msgid "Select the destination folder on the local computer."
-msgstr ""
+msgstr "Sélectionnez le dossier de destination sur l'ordinateur local."
 
 msgid "Select the destination folder on the remote computer."
-msgstr ""
+msgstr "Sélectionnez le dossier de destination sur l'ordinateur distant."
 
 msgid "DesktopAssist"
-msgstr ""
+msgstr "DesktopAssist"
 
 msgid "Remote access software"
-msgstr ""
+msgstr "Logiciel d'accès à distance"
 
 msgid "License"
-msgstr ""
+msgstr "Licence"
 
 msgid "Log window"
-msgstr ""
+msgstr "Fenêtre de journal"
 
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 msgid "Details"
-msgstr ""
+msgstr "Détails"
 
 msgid ""
 "The screen cannot be captured at the moment. This is probably due to\n"
 "fast user switching or a disconnected/minimized Remote Desktop\n"
 "session."
 msgstr ""
+"L'écran ne peut pas être capturé pour le moment. Cela est probablement dû à\n"
+"un changement rapide d'utilisateur ou un bureau à distance déconnecté/minimisé\n"
+"session."
 
 msgid ""
 "Windows UAC is enabled on the client's system\n"
 "and the application is not running as an Administrator."
 msgstr ""
+"L'UAC Windows est activé sur le système du client\n"
+"et que l'application ne fonctionne pas en tant qu'administrateur."
 
 msgid "Some program options may not work correctly."
-msgstr ""
+msgstr "Certaines options du programme peuvent ne pas fonctionner correctement."
 
 msgid ""
 "Windows UAC is enabled on the client's system\n"
 "and the application is running as an Administrator."
 msgstr ""
+"L'UAC Windows est activé sur le système du client\n"
+"et l'application fonctionne en tant qu'administrateur."
 
 msgid "Click to show info"
-msgstr ""
+msgstr "Cliquez pour afficher les informations"
 
 msgid "Windows UAC is enabled"
-msgstr ""
+msgstr "L'UAC de Windows est activé"
 
 msgid "Keyboard actions"
-msgstr ""
+msgstr "Actions du clavier"
 
 msgid "Quality"
-msgstr ""
+msgstr "Qualité"
 
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 msgid "Change the monitor"
-msgstr ""
+msgstr "Changer le moniteur"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Plein écran"
 
 msgid "Aspect ratio"
-msgstr ""
+msgstr "Rapport d'aspect"
 
 msgid "Fit to window"
-msgstr ""
+msgstr "Adaptation à la fenêtre"
 
 msgid "Automatic quality"
-msgstr ""
+msgstr "Qualité automatique"
 
 msgid "256 colors"
-msgstr ""
+msgstr "256 couleurs"
 
 msgid "Default:"
-msgstr ""
+msgstr "Par défaut :"
 
 msgid "Send Ctrl+Alt+Del"
-msgstr ""
+msgstr "Envoyer Ctrl+Alt+Del"
 
 msgid "Send key combinations"
-msgstr ""
+msgstr "Envoyer des combinaisons de touches"
 
 msgid "Information"
-msgstr ""
+msgstr "Informations"
 
 msgid "Window mode"
-msgstr ""
+msgstr "Mode fenêtre"
 
 msgid "Client has view only mode enabled."
-msgstr ""
+msgstr "Le client a activé le mode de visualisation seulement."
 
 msgid "Send Ctrl+Alt+Delete"
-msgstr ""
+msgstr "Envoyer Ctrl+Alt+Delete"
 
 msgid "Grayscale disabled"
-msgstr ""
+msgstr "Handicapés en niveaux de gris"
 
 msgid "Hide the toolbar"
-msgstr ""
+msgstr "Masquer la barre d'outils"
 
 msgid "Grayscale enabled"
-msgstr ""
+msgstr "Niveaux de gris activés"
 
 msgid "Show toolbar"
-msgstr ""
+msgstr "Afficher la barre d'outils"
 
 msgid "Hide toolbar"
-msgstr ""
+msgstr "Cacher la barre d'outils"
 
 msgid "Another program instance is already running, aborting."
-msgstr ""
+msgstr "Une autre instance de programme est déjà en cours d'exécution, qui est interrompue."
 
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 msgid "General settings"
-msgstr ""
+msgstr "Paramètres généraux"
 
 msgid "Language:"
-msgstr ""
+msgstr "La langue :"
 
 msgid "View only"
-msgstr ""
+msgstr "Voir seulement"
 
 msgid "Turn off remote wallpaper"
-msgstr ""
+msgstr "Éteindre le fond d'écran à distance"
 
 msgid "Disable GUI animations"
-msgstr ""
+msgstr "Désactiver les animations GUI"
 
 msgid "Disable Aero"
-msgstr ""
+msgstr "Désactiver Aero"
 
 msgid "Private password:"
-msgstr ""
+msgstr "Mot de passe privé :"
 
 msgid "Password generator"
-msgstr ""
+msgstr "Générateur de mots de passe"
 
 msgid "Refresh password after disconnect"
-msgstr ""
+msgstr "Rafraîchir le mot de passe après la déconnexion"
 
 msgid "Use letters"
-msgstr ""
+msgstr "Utiliser les lettres"
 
 msgid "Password length:"
-msgstr ""
+msgstr "Longueur du mot de passe :"
 
 msgid "Use direct connection"
-msgstr ""
+msgstr "Utiliser une connexion directe"
 
 msgid "Port number:"
-msgstr ""
+msgstr "Numéro de port :"
 
 msgid "to"
-msgstr ""
+msgstr "à"
 
 msgid "Image quality"
-msgstr ""
+msgstr "Qualité de l'image"
 
 msgid "Control automatically"
-msgstr ""
+msgstr "Contrôle automatique"
 
 msgid "Quality (%)"
-msgstr ""
+msgstr "Qualité (%)"
 
 msgid "Reduce to 256 colors"
-msgstr ""
+msgstr "Réduire à 256 couleurs"
 
 msgid "Startup"
-msgstr ""
+msgstr "Startup"
 
 msgid "Start at Login"
-msgstr ""
+msgstr "Commencez par vous connecter"
 
 msgid "Start minimized"
-msgstr ""
+msgstr "Début minimisé"
 
 msgid ""
 "Enter the license key to use the license with this installation.\n"
 "The key was sent in an e-mail after the purchase."
 msgstr ""
+"Entrez la clé de licence pour utiliser la licence avec cette installation.\n"
+"La clé a été envoyée dans un e-mail après l'achat."
 
 msgid "Remove license key"
-msgstr ""
+msgstr "Supprimer la clé de licence"
 
 msgid "Save the license key"
-msgstr ""
+msgstr "Sauvegarder la clé de licence"
 
 msgid "version"
-msgstr ""
+msgstr "version"
 
 msgid "Portions copyright:"
-msgstr ""
+msgstr "Droits d'auteur de certaines parties :"
 
 msgid "License key"
-msgstr ""
+msgstr "Clé de licence"
 
 msgid "About"
-msgstr ""
+msgstr "À propos de"
 
 msgid "Open settings folder"
-msgstr ""
+msgstr "Ouvrir le dossier des paramètres"
 
 msgid "Install"
-msgstr ""
+msgstr "Installer"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "System default"
-msgstr ""
+msgstr "Défaut du système"
 
 msgid "Dutch"
-msgstr ""
+msgstr "Néerlandais"
 
 msgid "German"
-msgstr ""
+msgstr "Allemand"
 
 msgid "Greek"
-msgstr ""
+msgstr "Grec"
 
 msgid "English"
-msgstr ""
+msgstr "Anglais"
 
 msgid "French"
-msgstr ""
+msgstr "Français"
 
 msgid "Italian"
-msgstr ""
+msgstr "Italien"
 
 msgid "Polish"
-msgstr ""
+msgstr "Polonais"
 
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugais"
 
 msgid "Russian"
-msgstr ""
+msgstr "Russe"
 
 msgid "Spanish"
-msgstr ""
+msgstr "Espagnol"
 
 msgid "Spanish (AR)"
-msgstr ""
+msgstr "Espagnol (AR)"
 
 msgid "[language] translation:"
-msgstr ""
+msgstr "traduction [langue] :"
 
 msgid "Language_autor"
-msgstr ""
+msgstr "Langue_auteur"
 
 msgid "Display license"
-msgstr ""
+msgstr "Licence d'affichage"
 
 msgid ""
 "The selected language is not supported by your system.\n"
 "Try installing support for this language."
 msgstr ""
+"La langue sélectionnée n'est pas prise en charge par votre système.\n"
+"Essayez d'installer le support pour cette langue."
 
 msgid "Incorrect license key."
-msgstr ""
+msgstr "Clé de licence incorrecte."
 
 msgid ""
 "Enabling this option will attempt to connect directly.\n"
 "It works only when you are the initiator of the connection.\n"
-"This is the fastest way to connect without negotiating the connection and "
-"proxy server.\n"
+"This is the fastest way to connect without negotiating the connection and proxy server.\n"
 "\n"
 "IMPORTANT!\n"
 "The router must have TCP port forwarding set (defined below)\n"
 "and appropriate settings in the firewall of your operating system.\n"
 "You need as many ports as many simultaneous connections you want to use."
 msgstr ""
+"En activant cette option, vous tenterez de vous connecter directement.\n"
+"Elle ne fonctionne que lorsque vous êtes l'initiateur de la connexion.\n"
+"C'est le moyen le plus rapide de se connecter sans avoir à négocier la connexion et le serveur proxy.\n"
+"\n"
+"IMPORTANT !\n"
+"Le routeur doit être équipé d'une fonction de redirection de port TCP (définie ci-dessous)\n"
+"et des paramètres appropriés dans le pare-feu de votre système d'exploitation.\n"
+"Vous avez besoin d'autant de ports que de connexions simultanées que vous souhaitez utiliser."
 
 msgid "Downloading information about the update"
-msgstr ""
+msgstr "Télécharger des informations sur la mise à jour"
 
 msgid "Connecting"
-msgstr ""
+msgstr "Connexion"
 
 msgid "Downloaded"
-msgstr ""
+msgstr "Téléchargé"
 
 msgid "Download complete"
-msgstr ""
+msgstr "Téléchargement complet"
 
 msgid "Canceling the update"
-msgstr ""
+msgstr "Annulation de la mise à jour"
 
 msgid "Starting data exchange"
-msgstr ""
+msgstr "Démarrage de l'échange de données"
 
 msgid "Checking client status"
-msgstr ""
+msgstr "Vérification du statut du client"
 
 msgid "Checking client status timeout"
-msgstr ""
+msgstr "Vérification du délai d'attente du statut du client"
 
 msgid "Exchanging RSA keys"
-msgstr ""
+msgstr "Échange de clés RSA"
 
 msgid "Authorization"
-msgstr ""
+msgstr "Autorisation"
 
 msgid "Connected"
-msgstr ""
+msgstr "Connecté"
 
 msgid "Authorization failed"
-msgstr ""
+msgstr "Échec de l'autorisation"
 
 msgid "Connection initialization failed"
-msgstr ""
+msgstr "Échec de l'initialisation de la connexion"
 
 msgid "Connection initialization timeout"
-msgstr ""
+msgstr "Délai d'initialisation de la connexion"
 
 msgid "Initiation of direct connection"
-msgstr ""
+msgstr "Mise en place d'une connexion directe"
 
 msgid "The direct connection attempt failed"
-msgstr ""
+msgstr "La tentative de connexion directe a échoué"
 
 msgid "Initializing the P2P connection"
-msgstr ""
+msgstr "Initialisation de la connexion P2P"
 
 msgid "Initializing the UDP connection"
-msgstr ""
+msgstr "Initialisation de la connexion UDP"
 
 msgid "The connection was broken. Connection is resuming..."
-msgstr ""
+msgstr "La connexion a été rompue. La connexion reprend..."
 
 msgid "Clipboard"
-msgstr ""
+msgstr "Presse-papiers"
 
 msgid "File copying canceled."
-msgstr ""
+msgstr "Copie de fichier annulée."
 
 msgid "Copying: "
-msgstr ""
+msgstr "Copie : "
 
 msgid "File copying completed."
-msgstr ""
+msgstr "Copie du dossier terminée."
 
 msgid "Connected, receiving data"
-msgstr ""
+msgstr "Connecté, recevant des données"
 
 msgid "Client"
-msgstr ""
+msgstr "Client"
 
 msgid "Copying folder: "
-msgstr ""
+msgstr "Dossier de copie : "
 
 msgid "File transfer completed"
-msgstr ""
+msgstr "Transfert de fichiers terminé"
 
 msgid "File transfer canceled"
-msgstr ""
+msgstr "Transfert de fichiers annulé"
 
 msgid "Incoming connection"
-msgstr ""
+msgstr "Connexion entrante"
 
 msgid "Connected, sending data"
-msgstr ""
+msgstr "Connecté, envoi de données"
