@@ -1,862 +1,672 @@
+# Loco Gettext template
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: DesktopAssist.po conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-06 21:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
-"Project-Id-Version: DesktopAssist\n"
-"Language: ru\n"
-
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: pl-PL\n"
+"X-Loco-Api-Version: 1.0.25 20201230-1"
 
 msgid "Aliases"
-msgstr "Псевдонимы"
-
+msgstr ""
 
 msgid "List of aliases"
-msgstr "Список псевдонимов"
-
+msgstr ""
 
 msgid "Alias editor"
-msgstr "Редактор псевдонимов"
-
+msgstr ""
 
 msgid "Client ID:"
-msgstr "ID клиента:"
-
+msgstr ""
 
 msgid "Alias name:"
-msgstr "Псевдоним:"
-
+msgstr ""
 
 msgid "New"
-msgstr "Новый"
-
+msgstr ""
 
 msgid "Add"
-msgstr "Добавить"
-
+msgstr ""
 
 msgid "Remove"
-msgstr "Удалить"
-
+msgstr ""
 
 msgid "Save"
-msgstr "Сохранить"
-
-
-
-msgid "Close"
-msgstr "Закрыть"
-
-
-msgid "The client ID can not be empty."
-msgstr "ID клиента не может быть пустым."
-
-
-
-
-
-
-
-msgid "Message"
-msgstr "Сообщение"
-
-
-msgid "The name of the alias can not be empty"
-msgstr "Псевдоним не может быть пустум"
-
-
-msgid "The name of the alias already exists."
-msgstr "Псевдоним уже существует."
-
-
-msgid "Alias name and ID already exists."
-msgstr "Псевдоним и ID уже существует."
-
-
-msgid "Do you want to save changes?"
-msgstr "Вы хотите сохранить изменения?"
-
-
-msgid "Question"
-msgstr "Вопрос"
-
-
-msgid "Your connection data"
-msgstr "Ваши данные подключения"
-
-
-msgid "Your ID:"
-msgstr "Ваш ID:"
-
-
-
-msgid "Password:"
-msgstr "Пароль:"
-
-
-
-msgid "Generate new password"
-msgstr "Создать новый пароль"
-
-
-msgid "Connect to client"
-msgstr "Подключиться к клиенту"
-
-
-msgid "Add/Edit alias"
-msgstr "Добавить/Изменить псевдоним"
-
-
-msgid "ID does not exist or client disconnected"
-msgstr "ID не существует или клиент отключен"
-
-
-msgid "Wrong password"
-msgstr "Неправильный пароль"
-
+msgstr ""
 
 msgid "Connect"
-msgstr "Подключиться"
+msgstr ""
 
+msgid "Close"
+msgstr ""
 
+msgid "The client ID can not be empty."
+msgstr ""
 
-msgid "Offline"
-msgstr "Не в сети"
+msgid "Message"
+msgstr ""
 
+msgid "The name of the alias can not be empty"
+msgstr ""
 
-msgid "Connections encrypted with OpenSSL 256-bit AES"
-msgstr "Соединения зашифровано с помощью OpenSSL 256-bit AES"
+msgid "The name of the alias already exists."
+msgstr ""
 
+msgid "Alias name and ID already exists."
+msgstr ""
 
-msgid "Count of connected clients"
-msgstr "Количество подключенных клиентов"
+msgid "Do you want to save changes?"
+msgstr ""
 
-
-msgid "Amount of downloaded and uploaded data"
-msgstr "Количество скачанных и отправленных данных"
-
-
-msgid "Quit"
-msgstr "Выйти"
-
-
-msgid "Incorrect client ID"
-msgstr "Неверный ID клиента"
-
-
-msgid "The given ID number is the same as yours."
-msgstr "Данный ID номер совпадает с вашим."
-
-
-msgid "Password can't be blank"
-msgstr "Пароль не может быть пустым"
-
-
-
-msgid "Password too short - minimum length is 4 characters"
-msgstr "Пароль слишком короткий - минимальная длина 4 символа"
-
-
-msgid "An upgrade to the new version is required, if you agree click 'Yes'."
-msgstr "Требуется обновление до новой версии , если вы согласны, нажмите 'Да'."
-
-
-msgid "Otherwise, you can download the new version from:"
-msgstr "В противном случае вы можете скачать новую версию с:"
-
-
-
-
-msgid "Update"
-msgstr "Обновить"
-
-
-msgid "Online"
-msgstr "В сети"
-
-
-msgid "Error checking client ID"
-msgstr "Ошибка проверки ID клиента"
-
-
-
-msgid "Client offline"
-msgstr "Клиент не в сети"
-
-
-msgid "Direct connection"
-msgstr "Прямое подключение"
-
-
-
-msgid "Your partner closed the connection"
-msgstr "Ваш партнер закрыл подключение"
-
-
-
-msgid "Disconnected"
-msgstr "Отключен"
-
-
-msgid "Save file"
-msgstr "Сохранить файл"
-
-
-msgid "Exceeded limit of incorrect authorizations, wait "
-msgstr "Превышен лимит неверных авторизаций, подождите "
-
-
-msgid "License"
-msgstr "Лицензия"
-
-
-msgid "Log window"
-msgstr "Окно журнала"
-
-
-msgid "Title"
-msgstr "Заголовок"
-
-
-msgid "Details"
-msgstr "Подробности"
-
-
-
-msgid "Cancel"
-msgstr "Отмена"
-
-
-msgid "Windows UAC is enabled on the client's system\n"
-"and the application is not running as an Administrator."
-
-msgstr "В клиентской системе Windows UAC включен\n"
-"и приложение не запущено от имени администратора."
-
-
-msgid "Some program options may not work correctly."
-msgstr "Некоторые параметры программы могут работать неправильно."
-
-
-msgid "Windows UAC is enabled on the client's system\n"
-"and the application is running as an Administrator."
-
-msgstr "В клиентской системе Windows UAC включен\n"
-"и приложение работает от имени администратора."
-
-
-msgid "Windows UAC is enabled"
-msgstr "Windows UAC включен"
-
-
-msgid "Send Ctrl+Alt+Delete"
-msgstr "Отправить Ctrl+Alt+Delete"
-
-
-msgid "Grayscale disabled"
-msgstr "Оттенки серого отключены"
-
-
-
-msgid "Quality"
-msgstr "Качество"
-
-
-
-msgid "Full screen"
-msgstr "На весь экран"
-
-
-msgid "Hide the toolbar"
-msgstr "Скрыть панель инструментов"
-
-
-msgid "Grayscale enabled"
-msgstr "Оттенки серого включены"
-
-
-msgid "Information"
-msgstr "Информация"
-
-
-msgid "Window mode"
-msgstr "Оконный режим"
-
-
-msgid "Show toolbar"
-msgstr "Показать панель инструментов"
-
-
-msgid "Hide toolbar"
-msgstr "Скрыть панель инструментов"
-
-
-msgid "Another program instance is already running, aborting."
-msgstr "Другой экземпляр программы уже запущен, прерывается."
-
-
-msgid "Settings"
-msgstr "Настройки"
-
-
-msgid "General settings"
-msgstr "Общие настройки"
-
-
-msgid "Language:"
-msgstr "Язык:"
-
-
-msgid "View only"
-msgstr "Только просмотр"
-
-
-msgid "Turn off remote wallpaper"
-msgstr "Отключить обои"
-
-
-msgid "Disable GUI animations"
-msgstr "Отключить анимацию"
-
-
-msgid "Disable Aero"
-msgstr "Отключить прозрачность"
-
-
-msgid "Private password:"
-msgstr "Личный пароль:"
-
-
-msgid "Use direct connection"
-msgstr "Использовать прямое подключение"
-
-
-msgid "Port number:"
-msgstr "Номер порта:"
-
-
-msgid "to"
-msgstr "к"
-
-
-msgid "Quality (%)"
-msgstr "Качество (%)"
-
-
-
-msgid "version"
-msgstr "версия"
-
-
-msgid "Portions copyright:"
-msgstr "Часть авторских прав:"
-
-
-
-msgid "Display license"
-msgstr "Показать лицензию"
-
-
-msgid "About"
-msgstr "О программе"
-
-
-msgid "Open settings folder"
-msgstr "Открыть папку настроек"
-
-
-msgid "OK"
-msgstr "OK"
-
-
-msgid "System default"
-msgstr "Настройки по умолчанию"
-
-
-msgid "English"
-msgstr "Английский"
-
-
-msgid "Polish"
-msgstr "Польский"
-
-
-msgid "Downloading information about the update"
-msgstr "Загрузка информации об обновлении"
-
-
-msgid "Connecting"
-msgstr "Подключение"
-
-
-msgid "Downloaded"
-msgstr "Загружено"
-
-
-msgid "Download complete"
-msgstr "Загрузка завершена"
-
-
-msgid "Canceling the update"
-msgstr "Отмена обновления"
-
-
-msgid "Starting data exchange"
-msgstr "Начало обмена данными"
-
-
-msgid "Checking client status"
-msgstr "Проверка статуса клиента"
-
-
-msgid "Checking client status timeout"
-msgstr "Тайм-аут проверки статуса клиента"
-
-
-msgid "Exchanging RSA keys"
-msgstr "Обмен ключами RSA"
-
-
-msgid "Authorization"
-msgstr "Авторизация"
-
-
-msgid "Connected"
-msgstr "Подключен"
-
-
-msgid "Authorization failed"
-msgstr "Авторизация не удалась"
-
-
-
-
-
-msgid "Connection initialization failed"
-msgstr "Инициализация подключения не удалась"
-
-
-msgid "Connection initialization timeout"
-msgstr "Тайм-аут инициализации подключения"
-
-
-msgid "Initiation of direct connection"
-msgstr "Инициирование прямого подключения"
-
-
-msgid "The direct connection attempt failed"
-msgstr "Попытка прямого подключения не удалась"
-
-
-msgid "Initializing the P2P connection"
-msgstr "Инициализация P2P подключения"
-
-
-msgid "Initializing the UDP connection"
-msgstr "Инициализация UDP подключения"
-
-
-msgid "Connected, receiving data"
-msgstr "Подключен, получение данных"
-
-
-msgid "Client"
-msgstr "Клиент"
-
-
-msgid "Connected, sending data"
-msgstr "Подключен, отправка данных"
-
-
-
-msgid "[language] translation:"
-msgstr "Русский перевод:"
-
-
-
-msgid "Language_autor"
-msgstr "Сергей Ворон"
-
+msgid "Question"
+msgstr ""
 
 msgid "Send"
-msgstr "Отправить"
-
+msgstr ""
 
 msgid "Chat with"
-msgstr "Чат с"
+msgstr ""
 
+msgid "Desktop sharing"
+msgstr ""
+
+msgid "DesktopAssist shares your desktop"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Disconnect all"
+msgstr ""
+
+msgid "Your connection data"
+msgstr ""
+
+msgid "Your ID:"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Generate new password, to set private password go to settings."
+msgstr ""
+
+msgid "Generate new password"
+msgstr ""
+
+msgid "Connect to client"
+msgstr ""
+
+msgid "Add/Edit alias"
+msgstr ""
+
+msgid "ID does not exist or client disconnected"
+msgstr ""
+
+msgid "Wrong password"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
 
 msgid "Free version, buy a license"
-msgstr "Бесплатная версия, купить лицензию"
+msgstr ""
 
+msgid "Connections encrypted with OpenSSL 256-bit AES"
+msgstr ""
+
+msgid "Count of connected clients"
+msgstr ""
 
 msgid "Open chat window"
-msgstr "Открыть окно чата"
+msgstr ""
 
+msgid "Update available"
+msgstr ""
 
-msgid "An upgrade to the new version is required, you can download the new version from: "
-msgstr "Требуется обновление до новой версии, вы можете скачать новую версию с: "
+msgid "Amount of downloaded and uploaded data"
+msgstr ""
 
+msgid "Quit"
+msgstr ""
+
+msgid "Incorrect client ID"
+msgstr ""
+
+msgid "The given ID number is the same as yours."
+msgstr ""
+
+msgid "Password can't be blank"
+msgstr ""
+
+msgid "Password too short - minimum length is 4 characters"
+msgstr ""
+
+msgid "Update is required"
+msgstr ""
+
+msgid "An upgrade to the new version is required, if you agree click 'Yes'."
+msgstr ""
+
+msgid "Otherwise, you can download the new version from:"
+msgstr ""
+
+msgid ""
+"An upgrade to the new version is required, you can download the new version "
+"from: "
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Insufficient permission to perform update in this location."
+msgstr ""
 
 msgid "License has expired, buy new"
-msgstr "Срок действия лицензии истек, купить новую"
+msgstr ""
 
+msgid "Online"
+msgstr ""
 
+msgid "Error checking client ID"
+msgstr ""
+
+msgid "Client offline"
+msgstr ""
+
+#, c-format
 msgid "The limit of %d connections"
-msgstr "Лимит %d подключений"
+msgstr ""
 
-
-msgid "The maximum number of %d simultaneous connections for the license has been exceeded."
-msgstr "Превышено максимальное количество %d одновременных подключений для лицензии."
-
+#, c-format
+msgid ""
+"The maximum number of %d simultaneous connections for the license has been "
+"exceeded."
+msgstr ""
 
 msgid "Limit of the free version."
-msgstr "Лимит бесплатной версии."
-
+msgstr ""
 
 msgid "The maximum number of simultaneous connections has been exceeded."
-msgstr "Превышено максимальное количество одновременных подключений."
+msgstr ""
 
+msgid "Direct connection"
+msgstr ""
+
+msgid "Your partner closed the connection"
+msgstr ""
+
+msgid "Disconnected"
+msgstr ""
+
+msgid "You closed the connection "
+msgstr ""
+
+msgid "Save file"
+msgstr ""
+
+msgid "Exceeded limit of incorrect authorizations, wait "
+msgstr ""
+
+msgid "Program is still running"
+msgstr ""
+
+msgid ""
+"An upgrade to the new version is available, if you want to update click "
+"'Yes'."
+msgstr ""
+
+msgid ""
+"An upgrade to the new version is available, you can download the new version "
+"from: "
+msgstr ""
+
+msgid "Show &DesktopAssist"
+msgstr ""
+
+msgid "&Settings"
+msgstr ""
+
+msgid "E&xit"
+msgstr ""
+
+msgid "Powered by "
+msgstr ""
+
+msgid "An upgrade to the new version is required."
+msgstr ""
 
 msgid "The file already exists. Do you want to overwrite it?"
-msgstr "Файл уже существует. Вы хотите перезаписать его?"
-
-
+msgstr ""
 
 msgid "Confirm"
-msgstr "Подтвердить"
-
+msgstr ""
 
 msgid "The directory already exists. Do you want to overwrite it?"
-msgstr "Каталог уже существует. Вы хотите перезаписать его?"
-
-
-msgid "Sending:"
-msgstr "Отправка:"
-
-
-msgid "Receiving:"
-msgstr "Получение:"
-
-
-
-
-
-msgid "File transfer"
-msgstr "Передача файла"
-
-
-msgid "Local computer"
-msgstr "Локальный компьютер"
-
-
-msgid "Remote computer"
-msgstr "Удаленный компьютер"
-
-
-msgid "Receive"
-msgstr "Получить"
-
-
-msgid "Ready"
-msgstr "Готов"
-
-
-
-
-msgid "Desktop"
-msgstr "Рабочий стол"
-
-
-
-
-msgid "My Documents"
-msgstr "Мои документы"
-
-
-msgid "Analyzing"
-msgstr "Анализ"
-
+msgstr ""
 
 msgid "The file in this location is not writable."
-msgstr "Файл в этом месте недоступен для записи."
+msgstr ""
 
+msgid "Sending:"
+msgstr ""
+
+msgid "Receiving:"
+msgstr ""
+
+msgid "File transfer"
+msgstr ""
+
+msgid "Local computer"
+msgstr ""
+
+msgid "Remote computer"
+msgstr ""
+
+msgid "Receive"
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "My Documents"
+msgstr ""
+
+msgid "Analyzing"
+msgstr ""
 
 msgid "Completed"
-msgstr "Завершено"
+msgstr ""
 
+msgid "Canceled"
+msgstr ""
+
+msgid "Do you want to cancel file transfer?"
+msgstr ""
 
 msgid "New folder"
-msgstr "Новая папка"
+msgstr ""
 
+msgid "Select the destination folder on the local computer."
+msgstr ""
+
+msgid "Select the destination folder on the remote computer."
+msgstr ""
+
+msgid "DesktopAssist"
+msgstr ""
+
+msgid "Remote access software"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Log window"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid ""
+"The screen cannot be captured at the moment. This is probably due to\n"
+"fast user switching or a disconnected/minimized Remote Desktop\n"
+"session."
+msgstr ""
+
+msgid ""
+"Windows UAC is enabled on the client's system\n"
+"and the application is not running as an Administrator."
+msgstr ""
+
+msgid "Some program options may not work correctly."
+msgstr ""
+
+msgid ""
+"Windows UAC is enabled on the client's system\n"
+"and the application is running as an Administrator."
+msgstr ""
 
 msgid "Click to show info"
-msgstr "Нажмите, чтобы показать информацию"
+msgstr ""
 
+msgid "Windows UAC is enabled"
+msgstr ""
+
+msgid "Keyboard actions"
+msgstr ""
+
+msgid "Quality"
+msgstr ""
 
 msgid "Chat"
-msgstr "Чат"
+msgstr ""
 
+msgid "Change the monitor"
+msgstr ""
+
+msgid "Full screen"
+msgstr ""
+
+msgid "Aspect ratio"
+msgstr ""
+
+msgid "Fit to window"
+msgstr ""
+
+msgid "Automatic quality"
+msgstr ""
+
+msgid "256 colors"
+msgstr ""
 
 msgid "Default:"
-msgstr "По умолчанию:"
+msgstr ""
 
+msgid "Send Ctrl+Alt+Del"
+msgstr ""
 
-msgid "Default image quality"
-msgstr "Качество изображения по умолчанию"
+msgid "Send key combinations"
+msgstr ""
 
+msgid "Information"
+msgstr ""
 
-msgid "Enter the license key to use the license with this installation.\n"
+msgid "Window mode"
+msgstr ""
+
+msgid "Client has view only mode enabled."
+msgstr ""
+
+msgid "Send Ctrl+Alt+Delete"
+msgstr ""
+
+msgid "Grayscale disabled"
+msgstr ""
+
+msgid "Hide the toolbar"
+msgstr ""
+
+msgid "Grayscale enabled"
+msgstr ""
+
+msgid "Show toolbar"
+msgstr ""
+
+msgid "Hide toolbar"
+msgstr ""
+
+msgid "Another program instance is already running, aborting."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "General settings"
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+msgid "View only"
+msgstr ""
+
+msgid "Turn off remote wallpaper"
+msgstr ""
+
+msgid "Disable GUI animations"
+msgstr ""
+
+msgid "Disable Aero"
+msgstr ""
+
+msgid "Private password:"
+msgstr ""
+
+msgid "Password generator"
+msgstr ""
+
+msgid "Refresh password after disconnect"
+msgstr ""
+
+msgid "Use letters"
+msgstr ""
+
+msgid "Password length:"
+msgstr ""
+
+msgid "Use direct connection"
+msgstr ""
+
+msgid "Port number:"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "Image quality"
+msgstr ""
+
+msgid "Control automatically"
+msgstr ""
+
+msgid "Quality (%)"
+msgstr ""
+
+msgid "Reduce to 256 colors"
+msgstr ""
+
+msgid "Startup"
+msgstr ""
+
+msgid "Start at Login"
+msgstr ""
+
+msgid "Start minimized"
+msgstr ""
+
+msgid ""
+"Enter the license key to use the license with this installation.\n"
 "The key was sent in an e-mail after the purchase."
-msgstr "Введите ключ лицензии, чтобы использовать лицензию с этой установкой.\n"
-"Ключ был отправлен по электронной почте после покупки."
-
+msgstr ""
 
 msgid "Remove license key"
-msgstr "Удалить ключ лицензии"
-
+msgstr ""
 
 msgid "Save the license key"
-msgstr "Сохранить ключ лицензии"
+msgstr ""
 
+msgid "version"
+msgstr ""
+
+msgid "Portions copyright:"
+msgstr ""
 
 msgid "License key"
-msgstr "Ключ лицензии"
+msgstr ""
 
+msgid "About"
+msgstr ""
+
+msgid "Open settings folder"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "System default"
+msgstr ""
+
+msgid "Dutch"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Polish"
+msgstr ""
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
 
 msgid "Spanish"
-msgstr "Испанский"
-
+msgstr ""
 
 msgid "Spanish (AR)"
-msgstr "Испанский (AR)"
+msgstr ""
 
+msgid "[language] translation:"
+msgstr ""
+
+msgid "Language_autor"
+msgstr ""
+
+msgid "Display license"
+msgstr ""
+
+msgid ""
+"The selected language is not supported by your system.\n"
+"Try installing support for this language."
+msgstr ""
 
 msgid "Incorrect license key."
-msgstr "Неверный ключ лицензии."
+msgstr ""
 
-
-msgid "Enabling this option will attempt to connect directly.\n"
+msgid ""
+"Enabling this option will attempt to connect directly.\n"
 "It works only when you are the initiator of the connection.\n"
-"This is the fastest way to connect without negotiating the connection and proxy server.\n"
+"This is the fastest way to connect without negotiating the connection and "
+"proxy server.\n"
 "\n"
 "IMPORTANT!\n"
 "The router must have TCP port forwarding set (defined below)\n"
 "and appropriate settings in the firewall of your operating system.\n"
 "You need as many ports as many simultaneous connections you want to use."
-msgstr "Включение этой опции будет пытаться подключиться напрямую.\n"
-"Работает только тогда, когда вы являетесь инициатором подключения.\n"
-"Это самый быстрый способ подключения без согласования соединения и прокси-сервера.\n"
-"\n"
-"ВАЖНО!\n"
-"На маршрутизаторе должна быть включена переадресация портов TCP (определены ниже)\n"
-"и включены соответствующие настройки брандмауэра вашей операционной системы.\n"
-"Вам нужно столько портов, сколько одновременных подключений вы хотите использовать."
+msgstr ""
 
+msgid "Downloading information about the update"
+msgstr ""
 
-msgid "Password generator"
-msgstr "Генератор паролей"
+msgid "Connecting"
+msgstr ""
 
+msgid "Downloaded"
+msgstr ""
 
-msgid "Refresh password after disconnect"
-msgstr "Обновить пароль после отключения"
+msgid "Download complete"
+msgstr ""
 
+msgid "Canceling the update"
+msgstr ""
 
-msgid "Use letters"
-msgstr "Использовать буквы"
+msgid "Starting data exchange"
+msgstr ""
 
+msgid "Checking client status"
+msgstr ""
 
-msgid "Password length:"
-msgstr "Длина пароля:"
+msgid "Checking client status timeout"
+msgstr ""
 
+msgid "Exchanging RSA keys"
+msgstr ""
 
-msgid "Generate new password, to set private password go to settings."
-msgstr "Создайте новый пароль, для установки личного пароля перейдите в настройки."
+msgid "Authorization"
+msgstr ""
 
+msgid "Connected"
+msgstr ""
 
-msgid "You closed the connection "
-msgstr "Вы закрыли подключение "
+msgid "Authorization failed"
+msgstr ""
 
+msgid "Connection initialization failed"
+msgstr ""
 
-msgid "Powered by "
-msgstr "При поддержке "
+msgid "Connection initialization timeout"
+msgstr ""
 
+msgid "Initiation of direct connection"
+msgstr ""
 
-msgid "An upgrade to the new version is required."
-msgstr "Требуется обновление до новой версии."
+msgid "The direct connection attempt failed"
+msgstr ""
 
+msgid "Initializing the P2P connection"
+msgstr ""
 
-msgid "The license has expired."
-msgstr "Срок действия лицензии истек."
-
-
-msgid "Canceled"
-msgstr "Отменено"
-
-
-msgid "Do you want to cancel file transfer?"
-msgstr "Вы хотите отменить передачу файла?"
-
-
-msgid "Select the destination folder on the local computer."
-msgstr "Выберите папку назначения на локальном компьютере."
-
-
-msgid "Select the destination folder on the remote computer."
-msgstr "Выберите папку назначения на удаленном компьютере."
-
-
-msgid "The screen cannot be captured at the moment. This is probably due to\n"
-"fast user switching or a disconnected/minimized Remote Desktop\n"
-"session."
-msgstr "В данный момент экран не может быть захвачен. Это наверное, из-за\n"
-"быстрого переключения пользователей или отключенной/свернутой сессии\n"
-"удаленного рабочего стола."
-
-
-msgid "Startup"
-msgstr "Запуск"
-
-
-msgid "Start at Login"
-msgstr "Запускать при входе"
-
-
-msgid "Start minimized"
-msgstr "Запускать свернутым"
-
+msgid "Initializing the UDP connection"
+msgstr ""
 
 msgid "The connection was broken. Connection is resuming..."
-msgstr "Связь была прервана. Восстановление подключения..."
-
+msgstr ""
 
 msgid "Clipboard"
-msgstr "Буфер обмена"
-
+msgstr ""
 
 msgid "File copying canceled."
-msgstr "Копирование файла отменено."
-
+msgstr ""
 
 msgid "Copying: "
-msgstr "Копирование: "
-
+msgstr ""
 
 msgid "File copying completed."
-msgstr "Копирование файла завершено."
+msgstr ""
 
+msgid "Connected, receiving data"
+msgstr ""
+
+msgid "Client"
+msgstr ""
 
 msgid "Copying folder: "
-msgstr "Копирование папки: "
-
+msgstr ""
 
 msgid "File transfer completed"
-msgstr "Передача файла завершена"
-
+msgstr ""
 
 msgid "File transfer canceled"
-msgstr "Передача файла отменена"
-
-
-msgid "Update is required"
-msgstr "Требуется обновление"
-
-
-msgid "Insufficient permission to perform update in this location."
-msgstr "Недостаточно прав для выполнения обновления в этом месте."
-
-
-msgid "Program is still running"
-msgstr "Программа все еще работает"
-
-
-msgid "Show &DesktopAssist"
-msgstr "Показать &DesktopAssist"
-
-
-msgid "&Settings"
-msgstr "&Настройки"
-
-
-msgid "E&xit"
-msgstr "&Выход"
-
-
-msgid "The selected language is not supported by your system.\n"
-"Try installing support for this language."
-msgstr "Выбранный язык не поддерживается вашей системой.\n"
-"Попробуйте установить поддержку для этого языка."
-
+msgstr ""
 
 msgid "Incoming connection"
-msgstr "Входящее подключение"
+msgstr ""
 
-
-msgid "Image quality"
-msgstr "Качество изображения"
-
-
-msgid "Control automatically"
-msgstr "Управление автоматически"
-
-
-msgid "Reduce to 256 colors"
-msgstr "Уменьшить до 256 цветов"
-
-
-msgid "Send key combinations"
-msgstr "Отправить комбинации клавиш"
-
-
-msgid "Aspect ratio"
-msgstr "Соотношение сторон"
-
-
-msgid "Fit to window"
-msgstr "Подогнать под размер окна"
-
-
-msgid "Automatic quality"
-msgstr "Автоматиский выбор качества"
-
-
-msgid "256 colors"
-msgstr "256 цветов"
-
-
-msgid "Keyboards actions"
-msgstr "Действия клавиатуры"
-
-
-msgid "Send Ctrl+Alt+Del"
-msgstr "Отправить Ctrl+Alt+Del"
-
-
-msgid "Dutch"
-msgstr "Голландский"
-
-
-msgid "Italian"
-msgstr "Итальянский"
-
-
-msgid "French"
-msgstr "Французский"
-
-
-msgid "Russian"
-msgstr "Русский"
-
-
-msgid "Greek"
-msgstr "Греческий"
-
-
-msgid "Portuguese"
-msgstr "Португальский"
-
-
-msgid "German"
-msgstr "Немецкий"
-
+msgid "Connected, sending data"
+msgstr ""
