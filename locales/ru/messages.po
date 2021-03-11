@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: DesktopAssist.po conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 21:43+0100\n"
-"PO-Revision-Date: 2021-03-10 18:04+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-03-11 12:35+0000\n"
+"Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -78,16 +78,16 @@ msgid "Chat with"
 msgstr "Чат с"
 
 msgid "Desktop sharing"
-msgstr ""
+msgstr "Настольный обмен"
 
 msgid "DesktopAssist shares your desktop"
-msgstr ""
+msgstr "DesktopAssist разделяет ваш рабочий стол"
 
 msgid "Options"
-msgstr ""
+msgstr "Варианты"
 
 msgid "Disconnect all"
-msgstr ""
+msgstr "Отключить все"
 
 msgid "Your connection data"
 msgstr "Ваши данные подключения"
@@ -132,7 +132,7 @@ msgid "Open chat window"
 msgstr "Открыть окно чата"
 
 msgid "Update available"
-msgstr ""
+msgstr "Обновление доступно"
 
 msgid "Amount of downloaded and uploaded data"
 msgstr "Количество скачанных и отправленных данных"
@@ -218,10 +218,10 @@ msgid "Program is still running"
 msgstr "Программа все еще работает"
 
 msgid "An upgrade to the new version is available, if you want to update click 'Yes'."
-msgstr ""
+msgstr "Обновление до новой версии доступно, если вы хотите обновиться, нажмите 'Да'."
 
 msgid "An upgrade to the new version is available, you can download the new version from: "
-msgstr ""
+msgstr "Доступно обновление до новой версии, с которой можно загрузить новую версию: "
 
 msgid "Show &DesktopAssist"
 msgstr "Показать &DesktopAssist"
@@ -302,10 +302,10 @@ msgid "Select the destination folder on the remote computer."
 msgstr "Выберите папку назначения на удаленном компьютере."
 
 msgid "DesktopAssist"
-msgstr ""
+msgstr "DesktopAssist"
 
 msgid "Remote access software"
-msgstr ""
+msgstr "Программное обеспечение удаленного доступа"
 
 msgid "License"
 msgstr "Лицензия"
@@ -352,7 +352,7 @@ msgid "Windows UAC is enabled"
 msgstr "Windows UAC включен"
 
 msgid "Keyboard actions"
-msgstr ""
+msgstr "Клавиатурные действия"
 
 msgid "Quality"
 msgstr "Качество"
@@ -361,7 +361,7 @@ msgid "Chat"
 msgstr "Чат"
 
 msgid "Change the monitor"
-msgstr ""
+msgstr "Изменить монитор"
 
 msgid "Full screen"
 msgstr "На весь экран"
@@ -394,7 +394,7 @@ msgid "Window mode"
 msgstr "Оконный режим"
 
 msgid "Client has view only mode enabled."
-msgstr ""
+msgstr "У клиента включен режим только просмотра."
 
 msgid "Send Ctrl+Alt+Delete"
 msgstr "Отправить Ctrl+Alt+Delete"
@@ -512,7 +512,7 @@ msgid "Open settings folder"
 msgstr "Открыть папку настроек"
 
 msgid "Install"
-msgstr ""
+msgstr "Установить"
 
 msgid "OK"
 msgstr "OK"
