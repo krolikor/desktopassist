@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: DesktopAssist.po conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 21:43+0100\n"
-"PO-Revision-Date: 2021-03-10 18:04+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-03-10 22:56+0000\n"
+"Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -78,16 +78,16 @@ msgid "Chat with"
 msgstr "Converse com"
 
 msgid "Desktop sharing"
-msgstr ""
+msgstr "Partilha de secretária"
 
 msgid "DesktopAssist shares your desktop"
-msgstr ""
+msgstr "DesktopAssist partilha o seu ambiente de trabalho"
 
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 msgid "Disconnect all"
-msgstr ""
+msgstr "Desligar todos"
 
 msgid "Your connection data"
 msgstr "Os seus dados de ligação"
@@ -132,7 +132,7 @@ msgid "Open chat window"
 msgstr "Abrir janela de chat"
 
 msgid "Update available"
-msgstr ""
+msgstr "Actualização disponível"
 
 msgid "Amount of downloaded and uploaded data"
 msgstr "Quantidade de dados descarregados e carregados"
@@ -218,10 +218,10 @@ msgid "Program is still running"
 msgstr "O programa ainda está em curso"
 
 msgid "An upgrade to the new version is available, if you want to update click 'Yes'."
-msgstr ""
+msgstr "Está disponível uma actualização para a nova versão, se quiser actualizar clique em 'Sim'."
 
 msgid "An upgrade to the new version is available, you can download the new version from: "
-msgstr ""
+msgstr "Está disponível uma actualização para a nova versão, a partir da qual pode descarregar a nova versão: "
 
 msgid "Show &DesktopAssist"
 msgstr "Mostrar &DesktopAssist"
@@ -302,10 +302,10 @@ msgid "Select the destination folder on the remote computer."
 msgstr "Seleccione a pasta de destino no computador remoto."
 
 msgid "DesktopAssist"
-msgstr ""
+msgstr "DesktopAssist"
 
 msgid "Remote access software"
-msgstr ""
+msgstr "Software de acesso remoto"
 
 msgid "License"
 msgstr "Licença"
@@ -352,7 +352,7 @@ msgid "Windows UAC is enabled"
 msgstr "O Windows UAC está activado"
 
 msgid "Keyboard actions"
-msgstr ""
+msgstr "Acções do teclado"
 
 msgid "Quality"
 msgstr "Qualidade"
@@ -361,7 +361,7 @@ msgid "Chat"
 msgstr "Chat"
 
 msgid "Change the monitor"
-msgstr ""
+msgstr "Alterar o monitor"
 
 msgid "Full screen"
 msgstr "Ecrã inteiro"
@@ -394,7 +394,7 @@ msgid "Window mode"
 msgstr "Modo janela"
 
 msgid "Client has view only mode enabled."
-msgstr ""
+msgstr "O cliente tem o modo de visualização apenas activado."
 
 msgid "Send Ctrl+Alt+Delete"
 msgstr "Enviar Ctrl+Alt+Delete"
@@ -512,7 +512,7 @@ msgid "Open settings folder"
 msgstr "Abrir pasta de definições"
 
 msgid "Install"
-msgstr ""
+msgstr "Instalar"
 
 msgid "OK"
 msgstr "OK"
