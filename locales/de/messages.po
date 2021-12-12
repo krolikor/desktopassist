@@ -683,61 +683,59 @@ msgstr "Eingehende Verbindung"
 msgid "Connected, sending data"
 msgstr "Verbunden, Daten senden"
 
-
 msgid "Interative access"
-msgstr ""
+msgstr "Interaktiver Zugang"
 
 msgid "History"
-msgstr ""
+msgstr "Geschichte"
 
 msgid "Filters"
-msgstr ""
+msgstr "Filter"
 
 msgid "Name:"
-msgstr ""
+msgstr "Name:"
 
 msgid "From:"
-msgstr ""
+msgstr "Von:"
 
 msgid "To:"
-msgstr ""
+msgstr "An:"
 
 msgid "Outgoing"
-msgstr ""
+msgstr "Ausgehend von"
 
 msgid "Incoming"
-msgstr ""
+msgstr "Eingehend"
 
 msgid "Total:"
-msgstr ""
+msgstr "Insgesamt:"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiv:"
 
 msgid "Delete All"
-msgstr ""
+msgstr "Alle löschen"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportieren"
 
 msgid "DesktopAssist interactiv access"
-msgstr ""
+msgstr "DesktopAssist interaktiver Zugang"
 
 msgid "would like to view you desk"
-msgstr ""
+msgstr "würde gerne Ihren Schreibtisch besichtigen"
 
 msgid "Accept"
-msgstr ""
+msgstr "Akzeptieren"
 
 msgid "Dismiss"
-msgstr ""
+msgstr "Ablehnen"
 
 msgid "Enable sound"
-msgstr ""
+msgstr "Ton einschalten"
 
 msgid "Exceeding the waiting time"
-msgstr ""
+msgstr "Überschreitung der Wartezeit"
 
 msgid "Interactive access disabled, connection denied"
-msgstr ""
-
+msgstr "Interaktiver Zugriff deaktiviert, Verbindung verweigert"
