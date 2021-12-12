@@ -680,3 +680,60 @@ msgstr "Входящее подключение"
 
 msgid "Connected, sending data"
 msgstr "Подключен, отправка данных"
+
+msgid "Interative access"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Total:"
+msgstr ""
+
+msgid "Active:"
+msgstr ""
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "DesktopAssist interactiv access"
+msgstr ""
+
+msgid "would like to view you desk"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgid "Enable sound"
+msgstr ""
+
+msgid "Exceeding the waiting time"
+msgstr ""
+
+msgid "Interactive access disabled, connection denied"
+msgstr ""
