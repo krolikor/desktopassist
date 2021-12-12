@@ -674,8 +674,8 @@ msgstr ""
 msgid "Interactive access"
 msgstr ""
 
-msgid "If enabled, the client does not need to enter a password.
-When connecting, all you have to do is agree to the connection in the dialog box that appears."
+msgid "If enabled, the client does not need to enter a password.\n"
+"When connecting, all you have to do is agree to the connection in the dialog box that appears."
 msgstr ""
 
 msgid "Interative access"
