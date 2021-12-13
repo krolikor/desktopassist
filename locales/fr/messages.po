@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: DesktopAssist.po conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 21:43+0100\n"
-"PO-Revision-Date: 2021-03-11 12:07+0000\n"
+"PO-Revision-Date: 2021-12-12 23:26+0000\n"
 "Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -682,58 +682,58 @@ msgid "Connected, sending data"
 msgstr "Connecté, envoi de données"
 
 msgid "Interative access"
-msgstr ""
+msgstr "Accès interactif"
 
 msgid "History"
-msgstr ""
+msgstr "Histoire"
 
 msgid "Filters"
-msgstr ""
+msgstr "Filtres"
 
 msgid "Name:"
-msgstr ""
+msgstr "Nom :"
 
 msgid "From:"
-msgstr ""
+msgstr "De:"
 
 msgid "To:"
-msgstr ""
+msgstr "A:"
 
 msgid "Outgoing"
-msgstr ""
+msgstr "Sortie"
 
 msgid "Incoming"
-msgstr ""
+msgstr "Entrant"
 
 msgid "Total:"
-msgstr ""
+msgstr "Total:"
 
 msgid "Active:"
-msgstr ""
+msgstr "Actif:"
 
 msgid "Delete All"
-msgstr ""
+msgstr "Supprimer tout"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportation"
 
 msgid "DesktopAssist interactiv access"
-msgstr ""
+msgstr "Accès interactif à DesktopAssist"
 
 msgid "would like to view you desk"
-msgstr ""
+msgstr "aimerait voir votre bureau"
 
 msgid "Accept"
-msgstr ""
+msgstr "Accepter"
 
 msgid "Dismiss"
-msgstr ""
+msgstr "Rejeter"
 
 msgid "Enable sound"
-msgstr ""
+msgstr "Activer le son"
 
 msgid "Exceeding the waiting time"
-msgstr ""
+msgstr "Dépassement du temps d'attente"
 
 msgid "Interactive access disabled, connection denied"
-msgstr ""
+msgstr "Accès interactif désactivé, connexion refusée"
