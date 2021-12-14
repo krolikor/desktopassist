@@ -681,7 +681,7 @@ msgstr "Conexión entrante"
 msgid "Connected, sending data"
 msgstr "Conectado, enviando datos"
 
-msgid "Interative access"
+msgid "Interactive access"
 msgstr "Acceso interactivo"
 
 msgid "History"
