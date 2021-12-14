@@ -683,7 +683,7 @@ msgstr "Ligação de entrada"
 msgid "Connected, sending data"
 msgstr "Ligação, envio de dados"
 
-msgid "Interative access"
+msgid "Interactive access"
 msgstr "Acesso interactivo"
 
 msgid "History"
