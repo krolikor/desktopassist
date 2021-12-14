@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: DesktopAssist.po conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 21:43+0100\n"
-"PO-Revision-Date: 2021-03-11 12:35+0000\n"
+"PO-Revision-Date: 2021-12-13 22:40+0000\n"
 "Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -682,58 +682,58 @@ msgid "Connected, sending data"
 msgstr "Подключен, отправка данных"
 
 msgid "Interative access"
-msgstr ""
+msgstr "Интерактивный доступ"
 
 msgid "History"
-msgstr ""
+msgstr "История"
 
 msgid "Filters"
-msgstr ""
+msgstr "Фильтры"
 
 msgid "Name:"
-msgstr ""
+msgstr "Имя:"
 
 msgid "From:"
-msgstr ""
+msgstr "От:"
 
 msgid "To:"
-msgstr ""
+msgstr "Чтобы:"
 
 msgid "Outgoing"
-msgstr ""
+msgstr "Исходящие"
 
 msgid "Incoming"
-msgstr ""
+msgstr "Входящие"
 
 msgid "Total:"
-msgstr ""
+msgstr "Всего:"
 
 msgid "Active:"
-msgstr ""
+msgstr "Активный:"
 
 msgid "Delete All"
-msgstr ""
+msgstr "Удалить все"
 
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 msgid "DesktopAssist interactiv access"
-msgstr ""
+msgstr "Интерактивный доступ DesktopAssist"
 
 msgid "would like to view you desk"
-msgstr ""
+msgstr "хотел бы посмотреть на ваш стол"
 
 msgid "Accept"
-msgstr ""
+msgstr "Принять"
 
 msgid "Dismiss"
-msgstr ""
+msgstr "Отклонить"
 
 msgid "Enable sound"
-msgstr ""
+msgstr "Включить звук"
 
 msgid "Exceeding the waiting time"
-msgstr ""
+msgstr "Включить звук"
 
 msgid "Interactive access disabled, connection denied"
-msgstr ""
+msgstr "Интерактивный доступ отключен, соединение запрещено"
