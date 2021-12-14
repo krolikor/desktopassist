@@ -680,7 +680,7 @@ msgstr "Inkomende verbinding"
 msgid "Connected, sending data"
 msgstr "Verbonden, verzenden van gegevens"
 
-msgid "Interative access"
+msgid "Interactive access"
 msgstr "Interactieve toegang"
 
 msgid "History"
