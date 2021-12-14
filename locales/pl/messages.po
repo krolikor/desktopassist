@@ -677,7 +677,7 @@ msgstr "Połączenie przychodzące"
 msgid "Connected, sending data"
 msgstr "Połączono, wysyłanie danych"
 
-msgid "Interative access"
+msgid "Interactive access"
 msgstr "Dostęp interatywny"
 
 msgid "History"
