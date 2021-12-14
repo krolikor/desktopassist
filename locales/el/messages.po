@@ -676,7 +676,7 @@ msgstr "Εισερχόμενη σύνδεση"
 msgid "Connected, sending data"
 msgstr "Συνδεδεμένο, αποστολή δεδομένων"
 
-msgid "Interative access"
+msgid "Interactive access"
 msgstr "Διαδραστική πρόσβαση"
 
 msgid "History"
