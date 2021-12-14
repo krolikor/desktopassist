@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: DesktopAssist.po conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 21:43+0100\n"
-"PO-Revision-Date: 2021-03-11 12:09+0000\n"
+"PO-Revision-Date: 2021-12-13 22:51+0000\n"
 "Last-Translator: krolikor <krolikor@wit.edu.pl>\n"
 "Language-Team: \n"
 "Language: el\n"
@@ -677,58 +677,58 @@ msgid "Connected, sending data"
 msgstr "Συνδεδεμένο, αποστολή δεδομένων"
 
 msgid "Interative access"
-msgstr ""
+msgstr "Διαδραστική πρόσβαση"
 
 msgid "History"
-msgstr ""
+msgstr "Ιστορία"
 
 msgid "Filters"
-msgstr ""
+msgstr "Φίλτρα"
 
 msgid "Name:"
-msgstr ""
+msgstr "Όνομα:"
 
 msgid "From:"
-msgstr ""
+msgstr "Από:"
 
 msgid "To:"
-msgstr ""
+msgstr "Προς:"
 
 msgid "Outgoing"
-msgstr ""
+msgstr "Εξερχόμενο"
 
 msgid "Incoming"
-msgstr ""
+msgstr "Εισερχόμενο"
 
 msgid "Total:"
-msgstr ""
+msgstr "Σύνολο:"
 
 msgid "Active:"
-msgstr ""
+msgstr "Ενεργός:"
 
 msgid "Delete All"
-msgstr ""
+msgstr "Διαγραφή όλων"
 
 msgid "Export"
-msgstr ""
+msgstr "Εξαγωγή"
 
 msgid "DesktopAssist interactiv access"
-msgstr ""
+msgstr "Διαδραστική πρόσβαση DesktopAssist"
 
 msgid "would like to view you desk"
-msgstr ""
+msgstr "θα ήθελα να δω το γραφείο σας"
 
 msgid "Accept"
-msgstr ""
+msgstr "Αποδοχή"
 
 msgid "Dismiss"
-msgstr ""
+msgstr "Απορρίψτε το"
 
 msgid "Enable sound"
-msgstr ""
+msgstr "Ενεργοποίηση ήχου"
 
 msgid "Exceeding the waiting time"
-msgstr ""
+msgstr "Υπέρβαση του χρόνου αναμονής"
 
 msgid "Interactive access disabled, connection denied"
-msgstr ""
+msgstr "Η διαδραστική πρόσβαση είναι απενεργοποιημένη, η σύνδεση απορρίπτεται"
