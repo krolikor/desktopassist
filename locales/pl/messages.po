@@ -682,7 +682,7 @@ msgid "If enabled, the client does not need to enter a password.\n"
 msgstr ""
 
 msgid "Interactive access"
-msgstr "Dostęp interatywny"
+msgstr "Dostęp interaktywny"
 
 msgid "History"
 msgstr "Historia"
